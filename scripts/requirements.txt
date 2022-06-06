@@ -1,0 +1,7 @@
+transformers
+datasets
+yake
+ipython
+spacy
+numpy
+scikit-learn

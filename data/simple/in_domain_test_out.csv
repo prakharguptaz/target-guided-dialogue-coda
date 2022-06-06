@@ -1,0 +1,1020 @@
+index,context,target,output,domain
+2,my job helpe me teach kids.,education is a passion of mine.,"Yes, I am a teacher too.",in_domain
+3,my job helpe me teach kids.,education is a passion of mine.,I admire educators.,in_domain
+4,my job helpe me teach kids.,education is a passion of mine.,"Education has always been a passion of mine as well, though instead of kids, I teach ESL classes at a night school for immigrating adults.",in_domain
+5,my job helpe me teach kids.,education is a passion of mine.,I love helping people learn,in_domain
+6,my job helpe me teach kids.,education is a passion of mine.,I admire educators.,in_domain
+7,i really love learning different languages and habe been studying them for years.,i hate my old job.,Maybe I should learn a different language to help me get a new job.,in_domain
+8,i really love learning different languages and habe been studying them for years.,i hate my old job.,I want to go back to school and study things that I love to learn about.,in_domain
+9,i really love learning different languages and habe been studying them for years.,i hate my old job.,I want to work as a UN translator.,in_domain
+10,i have a weird hobby of hunting giant reptiles in remote locations !.,my vehicle is a dark color.,I need to be camouflaged o catch them.,in_domain
+11,i have a weird hobby of hunting giant reptiles in remote locations !.,my vehicle is a dark color.,I once had a pet chameleon and he blended in with my dark colored rug and I almost swept him up in my vaccuum.,in_domain
+13,i wish i had been able to meet my father because i am smart like him.,i work with computers.,My father built computers.,in_domain
+15,i wish i had been able to meet my father because i am smart like him.,i work with computers.,My father used to work in software engineering.,in_domain
+16,i wish i had been able to meet my father because i am smart like him.,i work with computers.,My father introduced me to programming.,in_domain
+17,i wish i had been able to meet my father because i am smart like him.,i work with computers.,I work at a tech company,in_domain
+18,i wish i had been able to meet my father because i am smart like him.,i work with computers.,He was an engineer for some of the early computer systems. I followed in his footsteps because,in_domain
+19,i like babies.,i enjoy making other people laugh.,Babies make me laugh.,in_domain
+21,i like babies.,i enjoy making other people laugh.,I make babies laugh.,in_domain
+22,i took flight classes.,my house is in a high altitude location.,i love seeing everything from above,in_domain
+23,i took flight classes.,my house is in a high altitude location.,I couldn't get into sports because it's hard to breath in the higher altitude where I live.,in_domain
+24,i took flight classes.,my house is in a high altitude location.,I would love to learn to fly. I love heights of any kind.,in_domain
+25,i studied clothing designs but never used it.,i never had a job and i never will.,My major has been useless in getting me a job.,in_domain
+26,i studied clothing designs but never used it.,i never had a job and i never will.,My parents are rich so I stopped trying to learn anything,in_domain
+27,i studied clothing designs but never used it.,i never had a job and i never will.,"I studied art history, then married into wealth. I've never had a job and don't plan to.",in_domain
+29,i enjoy staring up at the sky.,i like to spend a lot of my free time with my pet.,I like stargazing outside with my pet.,in_domain
+30,i enjoy staring up at the sky.,i like to spend a lot of my free time with my pet.,I love watching the sky while walking my dog.,in_domain
+32,i was a pilot a long time ago.,i read a lot of young adult fiction.,I like reading books while on a plane.,in_domain
+33,i was a pilot a long time ago.,i read a lot of young adult fiction.,"I've never been able to work, as I'm disabled. I spend a lot of time reading.",in_domain
+34,i am guilty alot of times.,i spend my time eating and watching tv.,I wish I could better myself but its hard.,in_domain
+35,i am guilty alot of times.,i spend my time eating and watching tv.,"I am guilty a lot of times, no matter how hard I try not to feel that way. It's just that I so often spend my days eating, watching TV and accomplishing nothing—and I feel terrible that I'm wasting my life.",in_domain
+36,i am guilty alot of times.,i spend my time eating and watching tv.,I feel guilty about wasting my time.,in_domain
+37,my job is on the line in a kitchen.,i like bright colored things.,I work in an art gallery.  I love working with colorful things.,in_domain
+38,my job is on the line in a kitchen.,i like bright colored things.,I always get distracted by jello.,in_domain
+39,my job is on the line in a kitchen.,i like bright colored things.,I just bought a new neon kitchenware set. I love the colors!,in_domain
+40,my sibling likes to write.,i used to be very athletic.,My sibling likes to write too.  I was always into sports though.,in_domain
+41,my sibling likes to write.,i used to be very athletic.,I write too; ever since my accident.,in_domain
+42,my sibling likes to write.,i used to be very athletic.,My brother prefers sports.,in_domain
+43,i work in a library.,i had cows as pets growing up.,My favorite things to do growing up were milk the cows and go to the library to read about farming.,in_domain
+44,i work in a library.,i had cows as pets growing up.,"I work in a library now, but I was raised on a farm.  I used to have cows as pets.",in_domain
+46,my dad has strict political beliefs.,my sibling joined a gang and does not talk to us.,My dad was really strict too.  It drove my brother crazy and he ran away and joined a gang.,in_domain
+47,my dad has strict political beliefs.,my sibling joined a gang and does not talk to us.,"I also grew up with parents whose values were so overbearing that it drove my sibling to run away, and he's now in a gang and refusing to talk to us.",in_domain
+49,my dad has strict political beliefs.,my sibling joined a gang and does not talk to us.,My family don't get along anymore.,in_domain
+50,my dad has strict political beliefs.,my sibling joined a gang and does not talk to us.,what about your brother?,in_domain
+51,my dad has strict political beliefs.,my sibling joined a gang and does not talk to us.,My dads strong political beliefs led my sibling to join a gang and stop talking to us.,in_domain
+53,i live with multiple people.,i enjoy taking long walks outside.,I have a lot of roommates too.  We like taking walks outside in the morning.,in_domain
+54,i live with multiple people.,i enjoy taking long walks outside.,I have to go outside to take a break from my roommates.,in_domain
+55,heavy rock is my preference in music.,i eat at burger king five times a week.,I love listening to heavy rock.  They play that in the Burger King that I eat at every weekday.,in_domain
+56,heavy rock is my preference in music.,i eat at burger king five times a week.,I need fast food when I hear music.,in_domain
+57,heavy rock is my preference in music.,i eat at burger king five times a week.,I love the burgers they sell at the Hard Rock Cafe.,in_domain
+58,i love those sleek italian cars.,i am in good shape.,I wish I was as sleek as those cars.,in_domain
+59,i love those sleek italian cars.,i am in good shape.,I got into shape by running and bicycling to work instead of driving in my car.,in_domain
+60,i love those sleek italian cars.,i am in good shape.,A lot of athletes have that type of car.  I'm in pretty good shape myself.,in_domain
+61,music comes easy to me.,i have not told my family that i am interested in the same sex.,Music gives me peace.  It's hard when you haven't told your family that you are gay.,in_domain
+62,music comes easy to me.,i have not told my family that i am interested in the same sex.,I was in a band for a while. It's how I met my boyfriend.,in_domain
+63,music comes easy to me.,i have not told my family that i am interested in the same sex.,There are many gay musicians right now.,in_domain
+64,i find myself to be fully equipped for a battle of words.,my dad and poppy had jobs as clowns.,I miss going to the circus because I loved watching the clowns.,in_domain
+65,i find myself to be fully equipped for a battle of words.,my dad and poppy had jobs as clowns.,I'm not a good speaker.  My dad and poppy worked as clowns because they were the same way.,in_domain
+66,i find myself to be fully equipped for a battle of words.,my dad and poppy had jobs as clowns.,I'm afraid we are more adroit physically than intellectually in my family.,in_domain
+67,i go shopping a lot.,i have dark mane.,I like to buy clothes so I look like a lion.,in_domain
+68,i go shopping a lot.,i have dark mane.,I love to go shopping.  I got my hair dyed this black color in the salon near the shopping mall.,in_domain
+69,i go shopping a lot.,i have dark mane.,People mistake me at the grocery store because of my beard.,in_domain
+70,i have puppies.,my parents own a star like walmart.,"I wasn't allowed to have pets, as my parents were weird.",in_domain
+71,i have puppies.,my parents own a star like walmart.,My puppies are names after stars.,in_domain
+72,i have puppies.,my parents own a star like walmart.,My parents sell puppies at the store they own.,in_domain
+73,i have prior agriculture experience.,i am a mom.,My parents were farmers.,in_domain
+74,i have prior agriculture experience.,i am a mom.,I used to work on a farm too.,in_domain
+75,i have prior agriculture experience.,i am a mom.,I quit my job when I got pregnant.,in_domain
+76,i like to have a beer.,i joined a reading group.,I like drinking while reading.,in_domain
+77,i like to have a beer.,i joined a reading group.,I need to drink with smart people though.,in_domain
+78,i like to have a beer.,i joined a reading group.,I gave up drinking because it was all I did. I needed to make changes.,in_domain
+79,i have some problems with pronunciation.,i used to live in a different country.,I have trouble speaking too.  I used to live in another country.,in_domain
+80,i have some problems with pronunciation.,i used to live in a different country.,You do have a foreign accent.,in_domain
+81,i have some problems with pronunciation.,i used to live in a different country.,I speak the way my people speak.,in_domain
+82,i like to eat greasy things.," i have a identical sibling , jane.","You sound like you have the same taste as my sister.  I have an identical sibling, Jane.",in_domain
+83,i like to eat greasy things.," i have a identical sibling , jane.",My sister usually cooks them,in_domain
+84,i like to eat greasy things.," i have a identical sibling , jane.",I sister loves junk food.,in_domain
+85,i like to eat greasy things.," i have a identical sibling , jane.","I like to eat greasy things, which is the complete opposite of my twin sister. Isn't that weird? Oh, did I fail to mention that I have an identical sibling, Jane?",in_domain
+86,i like to eat greasy things.," i have a identical sibling , jane.",my sister loves greasy food also,in_domain
+87,i like to eat greasy things.," i have a identical sibling , jane.","I also indulge in those types of foods so often that I've put on a lot of weight, and you wouldn't even suspect that my sibling, Jane, and I are identical twins.",in_domain
+88,i like to listen to terrible music.,i only eat plants.,I bet your friends bug you about that as much as they do me about my diet.,in_domain
+90,i like to listen to terrible music.,i only eat plants.,Terrible music isn't good for plants.,in_domain
+92,i am too hardcore with my living.,i could use a trip or a cruise.,I think relaxing is a good idea.,in_domain
+93,i am too hardcore with my living.,i could use a trip or a cruise.,I find traveling helps when I get to hardcore with my living.,in_domain
+94,my favorite hobby is reading novels.,i enjoy horror novels.,I like romance novels.,in_domain
+95,my favorite hobby is reading novels.,i enjoy horror novels.,I love to read too! I go through many books a month.,in_domain
+96,my favorite hobby is reading novels.,i enjoy horror novels.,I like to read too.  My favorite are horror novels.,in_domain
+97,i like to compete at games.,i have a lot of pins and rods in my leg.,"I used to like sports a lot, until I got hurt.",in_domain
+98,i like to compete at games.,i have a lot of pins and rods in my leg.,i cannot since i am handicapped,in_domain
+101,my mother is a pro cleaner.,i am a student at the university.,I am always studying so I don't have time to clean.,in_domain
+102,my mother is a pro cleaner.,i am a student at the university.,My dad is a janitor at the university where I'm a stucent.,in_domain
+103,my goal is to travel in uncharted territory.,i love the sky in the evening.,i love watching the sky from a new place,in_domain
+104,my goal is to travel in uncharted territory.,i love the sky in the evening.,Have  you ever  studied  the  stars ? What  uncharted parts of the world are you looking at ?,in_domain
+106,my goal is to travel in uncharted territory.,i love the sky in the evening.,I love traveling.  I'm a pilot.,in_domain
+107,my goal is to travel in uncharted territory.,i love the sky in the evening.,I love the night sky so much that I've started night hiking into new areas so I can see the outdoors at a different time.,in_domain
+108,my goal is to travel in uncharted territory.,i love the sky in the evening.,"I love any kind of travel, as long as I am in nature.",in_domain
+109,i like books.,i am studying biology.,I read science books.,in_domain
+111,i like books.,i am studying biology.,I used to read a lot of books when I was a student.,in_domain
+112,i enjoy swimming.,i travel to new places.,I like swimming in exotic locales,in_domain
+114,i enjoy swimming.,i travel to new places.,I love going to different water parks,in_domain
+115,i have a dog with a lot of hair.,my mom is deceased.,My mom used to have a hairy dog.  She is dead now.,in_domain
+116,i have a dog with a lot of hair.,my mom is deceased.,My mom used to have a dog like that.,in_domain
+117,i have a dog with a lot of hair.,my mom is deceased.,My mother also has a dog with lots of hair.,in_domain
+118,i am the parent to a single kid.,i cant stand to jog but i push myself.,I have a kid with whom I run with every morning.,in_domain
+119,i am the parent to a single kid.,i cant stand to jog but i push myself.,I bond with my only kid by exercising.,in_domain
+120,i am the parent to a single kid.,i cant stand to jog but i push myself.,I need to be healthy for my kid.,in_domain
+121,i am the parent to a single kid.,i cant stand to jog but i push myself.,I heard it's hard to stay in shape as a single parent because you don't have time to exercise.,in_domain
+122,i am the parent to a single kid.,i cant stand to jog but i push myself.,"He's still young, so my wife and I take turns getting out of the house. I go running for my workout and to get a break from parenting.",in_domain
+123,i am the parent to a single kid.,i cant stand to jog but i push myself.,It's hard to keep up with my kid.,in_domain
+126,i enjoy beer and wine.,i am done with my education.,I would like to celebrate with beer and wine because I am finished with my education.,in_domain
+127,i make blogs.,i have a large family with babies.,Do you know of any blogs that are on the subject of large families with babies?,in_domain
+128,i make blogs.,i have a large family with babies.,I always wanted to blog about my children.,in_domain
+130,i have siblings who are the same age and look teh same.,you can see me in the background in some movies.,My sister and I were in a movie once.  You can see me as a background actor.,in_domain
+131,i have siblings who are the same age and look teh same.,you can see me in the background in some movies.,we used to walk onto movie sets.,in_domain
+132,i have siblings who are the same age and look teh same.,you can see me in the background in some movies.,My siblings and I are actors.,in_domain
+133,i like different reptiles.,i do not like people very much.,I prefer animals over people.,in_domain
+135,i like different reptiles.,i do not like people very much.,"Me too; reptiles are warmer, in a sense, than people.",in_domain
+137,i am my own person.,my footwear is navy.,I wear my own style of clothing.,in_domain
+138,i am my own person.,my footwear is navy.,I have my own style too.  I like to wear navy shoes.,in_domain
+139,i love to shove food in my maw.,i am going on strike.,They are shutting down the cafe at work.,in_domain
+140,i love to shove food in my maw.,i am going on strike.,"I love food to the point that being a foodie is an expensive hobby of mine, so I hope I can continue to afford nice meals while myself and my co-workers are on strike.",in_domain
+141,i love to shove food in my maw.,i am going on strike.,I am joining the picket line at my job and I will have plenty of time to eat all the food I love to eat.,in_domain
+142,i love to shove food in my maw.,i am going on strike.,I often stress eat due to the current poor conditions I have regarding my work life.,in_domain
+144,i love to shove food in my maw.,i am going on strike.,"I'll be going on a food strike because that's the most effective pressure, to see people starving themselves.",in_domain
+146,i love living close to the water.,people call me a ginger.,my skin is so dark because of the sun,in_domain
+149,i do not consume any meat or dairy products.,i work with kids.,I have to watch what I eat.,in_domain
+150,i do not consume any meat or dairy products.,i work with kids.,I am raising my children not to eat meat.,in_domain
+151,i do not consume any meat or dairy products.,i work with kids.,"I don't really have any restrictions with diet, but I have seen quite a range of restrictions.",in_domain
+152,i do not consume any meat or dairy products.,i work with kids.,I teach my morals to young ones.,in_domain
+153,i do not consume any meat or dairy products.,i work with kids.,I am raising my kids to be vegans.,in_domain
+154,i spend a lot of time on my looks.,my appearance matters when i am out and about.,I spend a lot of time working on my looks and appearances.,in_domain
+155,i spend a lot of time on my looks.,my appearance matters when i am out and about.,When I know I’m gonna be out and about I definitely take time to make sure I look good.,in_domain
+156,i spend a lot of time on my looks.,my appearance matters when i am out and about.,i usually don't care about how i look when i'm at home.,in_domain
+157,i have a fair complexion.,i am a retired colonel.,Your complexion is lovely and I wish I was able to maintain such a complexion in the military.,in_domain
+158,i have a fair complexion.,i am a retired colonel.,I have a rough complexion because I used to be in the army.,in_domain
+159,i have a fair complexion.,i am a retired colonel.,"Luckily I don't, as I spent most of my time outdoors.  This was true especially while I was in the military.",in_domain
+160," everyday , i get around the city in my big midnight colored vehicle.",i hate throwing out plastic.,I've seen people throw plastic out of their vehicles when they're driving.,in_domain
+161," everyday , i get around the city in my big midnight colored vehicle.",i hate throwing out plastic.,I don't have a car because I don't want to waste energy.  I hate wasting plastic too.,in_domain
+163,i am employed to work with power.,i love summer.,I have summer break so I can work.,in_domain
+164,i am employed to work with power.,i love summer.,I love the summer but we use a lot of power due to the AC running all the time.,in_domain
+165,i am employed to work with power.,i love summer.,I also work a part time job in summer with construction crews that put up power lines.,in_domain
+166,i am a well educated businessman.,i have had a boyfriend for 24 months.,my boyfriend is a business executive,in_domain
+167,i am a well educated businessman.,i have had a boyfriend for 24 months.,So is my boyfriend.,in_domain
+168,i am a well educated businessman.,i have had a boyfriend for 24 months.,I studied for a while too.  That is where I met my boyfriend of 24 months.,in_domain
+169,i am a well educated businessman.,i have had a boyfriend for 24 months.,When I am not at work I like to spend time with my boyfriend.,in_domain
+170,i am a well educated businessman.,i have had a boyfriend for 24 months.,"My boyfriend is also a business, although he never graduated college. He got into business by being an inventor.",in_domain
+173,i work with automobiles.,i can watch tv for hours.,I love watching top gear.,in_domain
+174,i work with automobiles.,i can watch tv for hours.,I don't know how to work on cars.  I'd rather watch television.,in_domain
+175,i am the vocalist for an alternative music group.,i do not do illegal substances because i do not have access to them.,"I was a member of a band, until a stint in rehab kept me away.",in_domain
+177,i am the vocalist for an alternative music group.,i do not do illegal substances because i do not have access to them.,A lot of musicians take drugs.,in_domain
+178,i try to avoid driving short distances when able.,i wear a lot of black.,I would just rather stay home myself.  I've always been kind of a loner.,in_domain
+179,i try to avoid driving short distances when able.,i wear a lot of black.,It's hard to see at night.,in_domain
+180,i try to avoid driving short distances when able.,i wear a lot of black.,When I want to sneak up on people I walk.,in_domain
+181,i try to avoid driving short distances when able.,i wear a lot of black.,"Same, I usually try to bike to places like the store or work. I like your shirt by the way! It is a really pretty color, I've never seen you wear this before.",in_domain
+182,i try to avoid driving short distances when able.,i wear a lot of black.,I like to walk but I get too hot.,in_domain
+183,i try to avoid driving short distances when able.,i wear a lot of black.,I do not bother driving at all since I always walk or ride bike around my city.,in_domain
+184,my parents had many children.,i am a realtor as well as a waitress.,My mom raised me by herself while working at a restaurant.,in_domain
+185,my parents had many children.,i am a realtor as well as a waitress.,"I was the oldest of 8.  I started working as early and as much as I could to get out of babysitting, and haven't the habit.",in_domain
+186,my parents had many children.,i am a realtor as well as a waitress.,"If your parents plan to sell their house once their children have all moved out, I'd be happy to help them, as I'm also a realtor in addition to waitressing.",in_domain
+187,i get takeout from barbeque often.,i am a serious carnivore.,I love babyback ribs.,in_domain
+188,i get takeout from barbeque often.,i am a serious carnivore.,I love to eat barbeque.  I'm a real carnivore.,in_domain
+189,i get takeout from barbeque often.,i am a serious carnivore.,"I love barbeque too, but if I ate it as often as I craved it, I would be very overweight, as all of my favorite foods paint me as a serious carnivore.",in_domain
+190,i do not make a lot of money.,spending an hour or so beating a map in mario sounds fun.,I just stay home and play video games,in_domain
+191,i do not make a lot of money.,spending an hour or so beating a map in mario sounds fun.,I don't have a job so I just play videogames.,in_domain
+192,i do not make a lot of money.,spending an hour or so beating a map in mario sounds fun.,I don't make much money either.  I sit at home playing mario.,in_domain
+194,roll playing is my favorite hobby.,i can memorize lines.,I like role playing.  I'm good at memorizing lines.,in_domain
+195,roll playing is my favorite hobby.,i can memorize lines.,I like acting out as roleplaying characters.,in_domain
+196,i have some problems with pronunciation.,i have been known to tickle the ivories.,People like when I say weird things.,in_domain
+197,i have some problems with pronunciation.,i have been known to tickle the ivories.,"I used to have problems with stuttering, and then buried myself in music.",in_domain
+198,i have some problems with pronunciation.,i have been known to tickle the ivories.,I have trouble with some words too.  I'm really good on the piano though.,in_domain
+199,i like to grow things.,my mom stays upstairs.,"I have never had much a green thumb, nor did my parents.",in_domain
+201,i like to grow things.,my mom stays upstairs.,I have so many plants in the living room that there is no space.,in_domain
+202,i had a rocky childhood.,i love salty snacks in front of a large screen.,I spent most of mine at home alone in front of the television.,in_domain
+203,i had a rocky childhood.,i love salty snacks in front of a large screen.,My parents let me do what I wanted.,in_domain
+204,i had a rocky childhood.,i love salty snacks in front of a large screen.,My childhood was spent mostly watching television.,in_domain
+205,i am studying a new language in school.,my group is going to go overseas.,"I just learned a new language, which is good because I'm planning on going overseas.",in_domain
+206,i am studying a new language in school.,my group is going to go overseas.,"Yes, I am practicing a language too.  I am in a high school French class, and my group is going overseas.",in_domain
+207,i am studying a new language in school.,my group is going to go overseas.,I like going to language exchanges in different countries.,in_domain
+208,i am looking for a new spouse.,i do not like my job.,I am recently divorced.  I work with my ex and I don't like my job.,in_domain
+209,i am looking for a new spouse.,i do not like my job.,"I need to change my whole life, actually.",in_domain
+210,i am looking for a new spouse.,i do not like my job.,"I don't have a spouse, but sometimes it feels like I'm married to my crappy job, so I can relate to the desire to find something new.",in_domain
+211,i have a couple of pythons.,i can not be in dirt.,"My brother used to find snakes in our garden, which I stayed out of.",in_domain
+212,i have a couple of pythons.,i can not be in dirt.,I wouldn't be able to raise an animal like that.  I don't like to be in the dirt.,in_domain
+213,i have a couple of pythons.,i can not be in dirt.,I think pythons prefer residing in trees rather than soil.,in_domain
+214,i have tons of relatives.,i like hot weather.,Most of my relatives live in Texas. It's pretty hot there.,in_domain
+215,i have tons of relatives.,i like hot weather.,We all live in Florida.,in_domain
+217," i like activities , but certain ones i like most.",i lift weights four times a week.,I love going to the gym,in_domain
+218," i like activities , but certain ones i like most.",i lift weights four times a week.,I spend any free time I have working out.,in_domain
+220," i like activities , but certain ones i like most.",i lift weights four times a week.,I really enjoy exercising,in_domain
+221," i like activities , but certain ones i like most.",i lift weights four times a week.,Lifting weights is one of my favorite activities.,in_domain
+222," i like activities , but certain ones i like most.",i lift weights four times a week.,I like to go to the gym the most.,in_domain
+223,taste the rainbow !.,i do not eat sugar.,"I've never even tried Skittles, whose motto is ""taste the rainbow"".",in_domain
+224,taste the rainbow !.,i do not eat sugar.,Do you like skittles?,in_domain
+225,taste the rainbow !.,i do not eat sugar.,I usually steer clear of Skittles.,in_domain
+226,i teach animals for my career.,i do not really feel like i fit in.,"I teach animals for my career but I think I made the wrong choice job-wise. To tell you the truth, I don't really like animals so I don't really feel like I fit in.",in_domain
+227,i teach animals for my career.,i do not really feel like i fit in.,I never teach people,in_domain
+228,i teach animals for my career.,i do not really feel like i fit in.,I work as an animal trainer.  I don't feel like I fit in with people.,in_domain
+229,i really like all kinds of food but i prefer mexican.,i make a lot of home made videos.,My favorite home made videos to film are ones where I'm showing people how to cook my family's traditional mexican food recipes.,in_domain
+230,i really like all kinds of food but i prefer mexican.,i make a lot of home made videos.,I record myself cooking Mexican cuisine,in_domain
+231,i really like all kinds of food but i prefer mexican.,i make a lot of home made videos.,"Mexican is pretty good, I like to make Mexican food and other food to record my cooking. Taking home videos is a hobby of mine.",in_domain
+232,i really like all kinds of food but i prefer mexican.,i make a lot of home made videos.,My first home made video was a cooking tutorial on how to prepare traditional mexican dishes.,in_domain
+234,i really like all kinds of food but i prefer mexican.,i make a lot of home made videos.,I like to make cooking videos.,in_domain
+235,my favorite novel is about a who realizes he is a commander.,i am employed at the supermarket.,Sometimes I read novels during my lunch breaks at the supermarket.,in_domain
+236,my favorite novel is about a who realizes he is a commander.,i am employed at the supermarket.,I could never do a job that tough.,in_domain
+237,my favorite novel is about a who realizes he is a commander.,i am employed at the supermarket.,I never have time to read because I'm always at work at the supermarket.,in_domain
+238,my favorite novel is about a who realizes he is a commander.,i am employed at the supermarket.,"That sounds good. I need something good to read during downtime at my job, which is at a supermarket.",in_domain
+239,my favorite novel is about a who realizes he is a commander.,i am employed at the supermarket.,"My favorite book is about a commander, which is similar to my job at the supermarket because it feels like an arm unit.",in_domain
+240,my favorite novel is about a who realizes he is a commander.,i am employed at the supermarket.,I read the synopsis of new books at my work.,in_domain
+241,i want to sing professionally.,sports are fun.,I want to get into sports professionally.,in_domain
+242,i want to sing professionally.,sports are fun.,I want to play football professionally.,in_domain
+243,i want to sing professionally.,sports are fun.,"I could never sings, but I love playing sports.",in_domain
+244,i want to sing professionally.,sports are fun.,My favorite kind of competitive sports are singing competitions.,in_domain
+245,i want to sing professionally.,sports are fun.,I prefer exercising.,in_domain
+248,i have a lot of plants in my house.,i was in the army.,Each plant is named after a military buddy.,in_domain
+249,i have a lot of plants in my house.,i was in the army.,I had plants until I was gone too often to care for them.,in_domain
+250,i have a lot of plants in my house.,i was in the army.,I learned a lot about gardening and plants during my time abroad in the army.,in_domain
+251,i have a lot of plants in my house.,i was in the army.,Luckily when I was deployed my sister watched my plants for me.,in_domain
+253,i participate in a sport using a racket and ball.,i love my two siblings.,I play tennis with my brother and sister.  I love them very much.,in_domain
+254,i participate in a sport using a racket and ball.,i love my two siblings.,I wish I was skilled in tennis.  I admire Venus and Serena.,in_domain
+255,i participate in a sport using a racket and ball.,i love my two siblings.,my brother used to be a professional badminton player,in_domain
+259,i doodle when i am sitting in my college lectures.,i want to live in an imaginary planet.,I find college lectures boring.,in_domain
+260,i doodle when i am sitting in my college lectures.,i want to live in an imaginary planet.,I draw planets with different environments.,in_domain
+261,i doodle when i am sitting in my college lectures.,i want to live in an imaginary planet.,I like to draw too.  I draw imaginary planets that I want to live on.,in_domain
+262,i doodle when i am sitting in my college lectures.,i want to live in an imaginary planet.,"I do, too, and I create the most amazing worlds from my imagination. Makes me want to go live somewhere entirely of my own creation.",in_domain
+263,i doodle when i am sitting in my college lectures.,i want to live in an imaginary planet.,I enjoy science class because I think about other planets.,in_domain
+264,i doodle when i am sitting in my college lectures.,i want to live in an imaginary planet.,i sometimes draw made up places in my doodles,in_domain
+266,i take care of animals for my job.,in my home we have several canines.,"I was unable to afford veterinary school after high school and had to settle on a different career path, but I still love caring for the dogs we've adopted at our home.",in_domain
+267,i take care of animals for my job.,in my home we have several canines.,I sometimes volunteer as a dog walker.,in_domain
+268,i take care of animals for my job.,in my home we have several canines.,I adopted a few dogs from the shelter I work at.,in_domain
+270,i take care of animals for my job.,in my home we have several canines.,I adopted the canines from an animal shelter I used to work at.,in_domain
+271,helping heal people is my profession.,my spouse works in a hospital taking care of others.,"Helping people is good,  My spouse helps people in the hospital.",in_domain
+272,helping heal people is my profession.,my spouse works in a hospital taking care of others.,You are similar to my wife.,in_domain
+273,helping heal people is my profession.,my spouse works in a hospital taking care of others.,i always admired people who help others,in_domain
+274,helping heal people is my profession.,my spouse works in a hospital taking care of others.,"Oh that's great, what area do you specialize in? Does your spouse also work in medicine?",in_domain
+275,helping heal people is my profession.,my spouse works in a hospital taking care of others.,"My spouse helps the doctors at the hospital heal people who are sick, and gets great joy from it.",in_domain
+276,helping heal people is my profession.,my spouse works in a hospital taking care of others.,I work as a psychologist.,in_domain
+277,my spouse is a great cook.,alecia beth moore is on while i paint.,Does your spouse listen to music when they cook?  I do when I paint.,in_domain
+278,my spouse is a great cook.,alecia beth moore is on while i paint.,I listen to music like alecia beth moore when I cook too.,in_domain
+279,my spouse is a great cook.,alecia beth moore is on while i paint.,"I wish mine would try it more often, so I had more time for art.",in_domain
+280,i lost one of my parents a while ago.,i do not like vegetables.,I remember how they made me eat spinach.,in_domain
+281,i lost one of my parents a while ago.,i do not like vegetables.,My mother grows vegetables in her garden.,in_domain
+282,i lost one of my parents a while ago.,i do not like vegetables.,My parents died from poor diets.,in_domain
+283,i would like to have kids one day.,i have to put in my contacts every morning.,"I'd like to have kids, but I don't want them to have bad vision.  The only way I can see is with my contacts.",in_domain
+284,i would like to have kids one day.,i have to put in my contacts every morning.,I need them to help me with everyday things,in_domain
+286,i have a job in a supermarket.,my spouse runs a car fixing business.,"I don't work, but my spouse fixes cars for a living.",in_domain
+287,i have a job in a supermarket.,my spouse runs a car fixing business.,My husband is looking for a new job.,in_domain
+289,i enjoy making things artistically.,being a determined lady gets me far in life.,I made a 40 foot sculpture once.,in_domain
+290,i enjoy making things artistically.,being a determined lady gets me far in life.,I promised myself that I would become a successful artist.,in_domain
+291,i enjoy making things artistically.,being a determined lady gets me far in life.,"I wish I had any talent in that area.  I do well in business, however.",in_domain
+292,my ride is dark.,i look for people with my same interest.,I ride only with friends.,in_domain
+293,my ride is dark.,i look for people with my same interest.,I like painting cars,in_domain
+294,my ride is dark.,i look for people with my same interest.,I like to rebuild cars.,in_domain
+295,i travel by train.," my dad was a proud soldier , too.",I love traveling by train.  It reminds me of my dad.,in_domain
+297,i travel by train.," my dad was a proud soldier , too.",My dad used to travel by train when he was a soldier.,in_domain
+298,i attempt to maintain a healthy diet.,i like to drive a lot.,I used to take healthy 'Meals on Wheels' around to the seniors in my town.,in_domain
+299,i attempt to maintain a healthy diet.,i like to drive a lot.,I eat nuts while I drive.,in_domain
+300,i attempt to maintain a healthy diet.,i like to drive a lot.,"I like to eat healthy, but I'm on the road a lot so I eat a lot of junk.",in_domain
+301,i enjoy eating to match my work out.,i enjoy putting my nose in a book.,"I don't really work out, but I do try to watch what I eat. I have recently been reading a good book, do you enjoy reading?",in_domain
+302,i enjoy eating to match my work out.,i enjoy putting my nose in a book.,I wish I was as dedicated to my body as I am my mind.,in_domain
+303,i enjoy eating to match my work out.,i enjoy putting my nose in a book.,i am much more of a booknerd,in_domain
+304,i have a very strong body.,being outdoors among the sand and ocean are fun.,i like working out outdoors,in_domain
+305,i have a very strong body.,being outdoors among the sand and ocean are fun.,I work out on the beach.,in_domain
+306,i have a very strong body.,being outdoors among the sand and ocean are fun.,I am strong too.  I think it is because I spend a lot of time on the beach.,in_domain
+307,hearing people sing from the heart can move me to tears.,i devour at least 1 book a week.,i prefer reading over singing,in_domain
+309,hearing people sing from the heart can move me to tears.,i devour at least 1 book a week.,"I like music, but reading is my passion.",in_domain
+310,hearing people sing from the heart can move me to tears.,i devour at least 1 book a week.,I feel the same way while reading a  novel.,in_domain
+311,hearing people sing from the heart can move me to tears.,i devour at least 1 book a week.,I'm not much into music.  I like reading though.  I can read one book a week.,in_domain
+312,hearing people sing from the heart can move me to tears.,i devour at least 1 book a week.,I get so into some books that they make me cry.,in_domain
+313,hearing people sing from the heart can move me to tears.,i devour at least 1 book a week.,Other things capture my attention as well.,in_domain
+314,hearing people sing from the heart can move me to tears.,i devour at least 1 book a week.,romance novels have the same effect on me,in_domain
+315,hearing people sing from the heart can move me to tears.,i devour at least 1 book a week.,"I like music, but I love reading.",in_domain
+316,hearing people sing from the heart can move me to tears.,i devour at least 1 book a week.,My favorite kinds of books are the ones where the authors really wrote them from their heart.,in_domain
+317,hearing people sing from the heart can move me to tears.,i devour at least 1 book a week.,reading a good books does the same to me,in_domain
+319,i am an omnivore.,i spend a lot of time writing.,"Not me, I'm vegetarian. I have a food blog about vegetarian cooking.",in_domain
+320,i am an omnivore.,i spend a lot of time writing.,I enjoy reading about different diets.,in_domain
+322,i am an omnivore.,i spend a lot of time writing.,I can afford to eat everything because of my job.,in_domain
+323,i am an omnivore.,i spend a lot of time writing.,"I don't really put much thought into what I eat, just whatever I can grab quickly.",in_domain
+324,i am an omnivore.,i spend a lot of time writing.,I like to eat snacks when I'm writing.,in_domain
+325,i like to test my voice while i clean off.,i have a masters of business.,I have to check my voice because I give many business presentations.,in_domain
+326,i like to test my voice while i clean off.,i have a masters of business.,"I wanted to sing, but I had to go to college.",in_domain
+327,i like to test my voice while i clean off.,i have a masters of business.,"I can't sing in tune to save my life, but I could sell an icecube to a snowman.",in_domain
+328,i work in a hospital.,i had to get used to moving a lot and seeing my dad once a year.,"I envy the stability your career provided, as I rarely get to see my father more than once a year since my job requires me to move frequently.",in_domain
+329,i work in a hospital.,i had to get used to moving a lot and seeing my dad once a year.,Hospital work hours are brutal.,in_domain
+330,i work in a hospital.,i had to get used to moving a lot and seeing my dad once a year.,I went into nursing but am a traveling nurse. I move around a lot.,in_domain
+331,i do not consume any meat or dairy products.,my religion is catholic.,I don't eat any meat or dairy products.  A lot of other Catholics do though.,in_domain
+332,i do not consume any meat or dairy products.,my religion is catholic.,I hear many buddhists don't eat meat or dairy.,in_domain
+333,i do not consume any meat or dairy products.,my religion is catholic.,"Catholicism allows you to eat whatever you want, but I'm lactose intolerant and can't have dairy.",in_domain
+334,i enjoy taking long walks outside.,i curate art.,I like walking past the art gallery I own.,in_domain
+335,i enjoy taking long walks outside.,i curate art.,"I like to enjoy nature, though I see everything in terms of how it would look in a painting.",in_domain
+336,i enjoy taking long walks outside.,i curate art.,"My favorite walks have always been the ones I take through art museums, so I suppose it's unsurprising that I ended up curating art as a career.",in_domain
+337,i am willing to pay for quality.,my pet is part of my family.,"I paid $4,000 for my pedigreed cat.",in_domain
+338,i am willing to pay for quality.,my pet is part of my family.,I will pay for the best quality pet foods.,in_domain
+339,i am willing to pay for quality.,my pet is part of my family.,"I do too, which is why I always get the most expensive pet food.",in_domain
+340,i am willing to pay for quality.,my pet is part of my family.,I usually pay a lot for pet food.,in_domain
+341,i am willing to pay for quality.,my pet is part of my family.,I choose quality care only for my pet.,in_domain
+342,i am willing to pay for quality.,my pet is part of my family.,"When my pet got sick, I paid for it",in_domain
+343,i am having kids soon.,i am a father.,I have yet to raise a child.,in_domain
+344,i am having kids soon.,i am a father.,I already have kids.  I'm a father.,in_domain
+345,i am having kids soon.,i am a father.,You are going to love having children.,in_domain
+346,my parents had many children.,i am hopeful for marriage.,I want a big family.,in_domain
+348,my parents had many children.,i am hopeful for marriage.,When my mother married my father she had three children from a past marraige  now there is six of us like the Brady Bunch.,in_domain
+349,i enjoy making people pretty.,i like to visit the border.,I go to different countries to do hair.,in_domain
+350,i enjoy making people pretty.,i like to visit the border.,I have a stylist just over in Mexico.,in_domain
+351,i enjoy making people pretty.,i like to visit the border.,I'm a traveller.,in_domain
+352,i really love dogs.,i love listening to piano.,My dogs fall asleep to music.,in_domain
+353,i really love dogs.,i love listening to piano.,I love dogs too and I also love music.,in_domain
+354,i really love dogs.,i love listening to piano.,My dog calms down when listening to music.,in_domain
+355,i can run a long distance within 240 seconds.,my father was a police officer who died when he was shot by a robber.,"My father was chasing the robber on foot when he got shot. He was a professional runner, so he caught up to the robber and the robber panicked.",in_domain
+356,i can run a long distance within 240 seconds.,my father was a police officer who died when he was shot by a robber.,I know running is important if you need to commit crimes.,in_domain
+357,i can run a long distance within 240 seconds.,my father was a police officer who died when he was shot by a robber.,"My father used to run a lot.  He had to keep in shape because he was a police officer, but he was killed because a robber shot him.",in_domain
+358,i really like to look at paintings and statues.,i am in charge of my dad and moms company.,My dad and mom's company is an art exhibition showing paintings and statues.,in_domain
+359,i really like to look at paintings and statues.,i am in charge of my dad and moms company.,I always liked art.  I buy nice pieces from the money that I make managing my parents' company.,in_domain
+360,i really like to look at paintings and statues.,i am in charge of my dad and moms company.,I used to own an art gallery.,in_domain
+362,i wish to build a home on the sand.,i like meeting new people.,I would like a beach house where I can host many parties.,in_domain
+363,i wish to build a home on the sand.,i like meeting new people.,I enjoy working with habitats for humanity.,in_domain
+364,i often wear dark clothing.,i love my smartphone.,It goes well with a white phone.,in_domain
+365,i often wear dark clothing.,i love my smartphone.,My clothes match my dark phone case.,in_domain
+366,i often wear dark clothing.,i love my smartphone.,i love looking like a hacker,in_domain
+368,i do not like to cook.,i want to get my own place.,"I actually love to cook, but sharing the kitchen with three roommates makes it difficult, so I've started saving up for my own place.",in_domain
+369,i do not like to cook.,i want to get my own place.,"I don't cook a lot either, but it will be hard when I get my own place.",in_domain
+370,i enjoy viewing the animals in the wild.,i want to adopt a dog someday.,"I love animals, but I'd rather see them closer up.",in_domain
+372,i enjoy viewing the animals in the wild.,i want to adopt a dog someday.,Animals are great.  I want to adopt a dog one day.,in_domain
+375,i prefer wearing a belt.,i use pens to write a lot.,A belt makes me look like a writer.,in_domain
+376,i enjoy games on a court.,i dislike tidying up.,After we are done there is a mess of equipment.,in_domain
+377,i enjoy games on a court.,i dislike tidying up.,i love setting up the games,in_domain
+378,i enjoy games on a court.,i dislike tidying up.,I like playing sports too.  I hate to clean up after a game though.,in_domain
+379,i like to cook with jalapenos.,i live in a stand alone.,i don't have a big enough kitchen to cook,in_domain
+380,i like to cook with jalapenos.,i live in a stand alone.,My old neighbors didn't like it when I cooked jalapenos.,in_domain
+381,i like to cook with jalapenos.,i live in a stand alone.,The smell spreads through the whole house.,in_domain
+382," i have a family , i love my 3 children.",in summer i live at the ballpark.,i love playing baseball with my son,in_domain
+383," i have a family , i love my 3 children.",in summer i live at the ballpark.,I have two kids.  They both play baseball and we are at the ballpark all summer.,in_domain
+384," i have a family , i love my 3 children.",in summer i live at the ballpark.,I play baseball with them.,in_domain
+385,i have multiple puppies.,i love to get drunk on fancy alcohol.,"I have a lot of dogs, but it's hard to take care of them because I get drunk a lot.",in_domain
+386,i have multiple puppies.,i love to get drunk on fancy alcohol.,My dogsitter got drunk last week.,in_domain
+387,i have multiple puppies.,i love to get drunk on fancy alcohol.,That is kind of you. I drink too much to have anything depend on me.,in_domain
+388,i have a spouse.,my sister has lots of kids.,We want a huge family.,in_domain
+389,i have a spouse.,my sister has lots of kids.,We want many children in the future.,in_domain
+392,i have a spouse.,my sister has lots of kids.,"I'm not married, but my sister is.",in_domain
+393,i have a spouse.,my sister has lots of kids.,"I'm not married, but I have two kids.",in_domain
+394,i am pretty good with a racquet.,i like to spend time at restaurants.,I never played tennis before.  There is a court behind one of the restaurants that I'm at often though.,in_domain
+395,i am pretty good with a racquet.,i like to spend time at restaurants.,I am a tennis star so I can afford to eat anything.,in_domain
+396,i am pretty good with a racquet.,i like to spend time at restaurants.,"Me to, I play tennis at the club. The tennis club has a great restaurant - i love dining out.",in_domain
+397,i have a spouse and a kid.,i work for myself.,I quit my job for my spouse and children.,in_domain
+398,i have a spouse and a kid.,i work for myself.,It's hard working while raising kids.,in_domain
+400,i love jalapenos.,i am really into exercise.,I love eating but I am worried about my weight.,in_domain
+402,i love jalapenos.,i am really into exercise.,"I've improved my diet a lot too, but I miss eating some foods. Especially spicy foods, like fries with jalapenos sauce.",in_domain
+403,i love jalapenos.,i am really into exercise.,Jalapenos are one thing I eat to keep me healthy.,in_domain
+404,i love jalapenos.,i am really into exercise.,I am into healthy food like jalapenos and exercise.,in_domain
+406,i participate in karate as an extracurricular.,abby is a wonderful person.,My friend Abby takes a karate class.,in_domain
+407,i participate in karate as an extracurricular.,abby is a wonderful person.,I believe abby practices martial arts as well.,in_domain
+408,i participate in karate as an extracurricular.,abby is a wonderful person.,I met Abby at karate.,in_domain
+409,i am an expert at making food.,the bucks are the best team on earth.,I watch every one of the bucks' games with a big meal I prepare for the event.,in_domain
+410,i am an expert at making food.,the bucks are the best team on earth.,Talk about making food.  They have the best food at the Bucks' games.,in_domain
+411,i am an expert at making food.,the bucks are the best team on earth.,"I love to cook.  I'm a chef for the Bucks, the best team in the world.",in_domain
+412,i am an expert at making food.,the bucks are the best team on earth.,I remember i prepared a luncheon buffet for the Milwaukee Bucks basketball team.,in_domain
+413,i am an expert at making food.,the bucks are the best team on earth.,I am preparing food for a football party.,in_domain
+414,i am an expert at making food.,the bucks are the best team on earth.,I like to cook when watching the bucks game on tv.,in_domain
+415,i am an expert at making food.,the bucks are the best team on earth.,I wonder if there are any NBA players who cook,in_domain
+417,i am an expert at making food.,the bucks are the best team on earth.,I like to make snacks for when I watch basketball.,in_domain
+418,i like to be on the road with the people.,i have a ponytail the color of dark honey.,I'm going on a road trip soon and will have to cut my hair shorter because it's so hard to manage away from home.,in_domain
+419,i like to be on the road with the people.,i have a ponytail the color of dark honey.,I like people with interesting hair.,in_domain
+421,i like to be on the road with the people.,i have a ponytail the color of dark honey.,We go and show off our looks to different cities.,in_domain
+422,i like to be on the road with the people.,i have a ponytail the color of dark honey.,"I was in the crew of a band, until they decided they would only hire blonds.",in_domain
+423,i like to be on the road with the people.,i have a ponytail the color of dark honey.,I like meeting interesting looking people.,in_domain
+424,i like to go to concerts.,i do not like working.,"I do as well, I wish I could go to tonight's concert but I have to work.",in_domain
+425,i like to go to concerts.,i do not like working.,I don't get to go to concerts much; too busy working.,in_domain
+426,i like to go to concerts.,i do not like working.,Concerts are great.  I'd rather go to a concert than work.,in_domain
+427,i have 12 children.,i have bright weave.,My kids dress me up in funny ways.,in_domain
+428,i have 12 children.,i have bright weave.,My son recently got his hair done at a new salon.,in_domain
+431,i am accountant.,i love growing vegetables.,I am only a farmer.,in_domain
+432,i am accountant.,i love growing vegetables.,"I am mainly a homemaker, and gardener.",in_domain
+433,i am hopeful for marriage.,my parents had many children.,I want children if I ever get married.,in_domain
+434,i am hopeful for marriage.,my parents had many children.,My parents were married for fifty years.  They had a lot of children.,in_domain
+435,i am hopeful for marriage.,my parents had many children.,I want a big family like my parents had.,in_domain
+436,i play around with candies a lot.,taste the rainbow !.,"I prefer to eat candy. My favorite candy is Skittles. I love their slogan: ""Taste the rainbow.""",in_domain
+437,i play around with candies a lot.,taste the rainbow !.,I love skittles.,in_domain
+438,i play around with candies a lot.,taste the rainbow !.,That sounds like a fun hobby.  My hobby is to play with the candy skittles.,in_domain
+440,i play around with candies a lot.,taste the rainbow !.,I like skittles.,in_domain
+441,i play around with candies a lot.,taste the rainbow !.,"My favorite candies are the fruit ones, like skittles. Taste the rainbow, right?",in_domain
+442,i have an amazing garden.,i have 2 children.,I had a garden until my I had children to take care of.,in_domain
+444,i have an amazing garden.,i have 2 children.,My children love playing in the garden.,in_domain
+445,i love to watch gameshows and mysteries.,i have done a lot of reading recently.,I prefer books over television,in_domain
+446,i love to watch gameshows and mysteries.,i have done a lot of reading recently.,I don't watch much television since I prefer other hobbies in my downtime.,in_domain
+447,i love to watch gameshows and mysteries.,i have done a lot of reading recently.,"I don't currently own a television, but I have a lot of books.",in_domain
+448,i enjoy camping in the wild.,my mom is a clothing designer and even has a line.,"I never went camping,  My mother never did those things because she was a fancy clothing designer.",in_domain
+449,i enjoy camping in the wild.,my mom is a clothing designer and even has a line.,My mom could help with the camping clothes.,in_domain
+450,i enjoy camping in the wild.,my mom is a clothing designer and even has a line.,I really like clothes made for outdoors,in_domain
+451,i enjoy camping in the wild.,my mom is a clothing designer and even has a line.,I am the opposite of my mom.,in_domain
+452,i enjoy camping in the wild.,my mom is a clothing designer and even has a line.,I never got to go camping as a child because my parents were too busy with their careers.,in_domain
+453,i enjoy camping in the wild.,my mom is a clothing designer and even has a line.,I enjoy outdoors clothes more than the outdoors itself.,in_domain
+454,i live in the desert.,i instruct people how to get fit as a job.,Not many job opportunities in the desert.,in_domain
+455,i live in the desert.,i instruct people how to get fit as a job.,I work with people in the wilderness.,in_domain
+456,i live in the desert.,i instruct people how to get fit as a job.,"I got started as an instructor by taking groups of people jogging through the desert, because the heat helps them sweat away the pounds.",in_domain
+457,i live in the desert.,i instruct people how to get fit as a job.,"That's cool, what kind of work do you do in the desert?",in_domain
+458,i live in the desert.,i instruct people how to get fit as a job.,I used to live in the desert.  I moved getting a job helping people get a job.,in_domain
+459,i live in the desert.,i instruct people how to get fit as a job.,I take people out on long desert hikes because the heat helps people sweat away the extra pounds.,in_domain
+461,i really enjoy doing artistic things.,i spend a lot of time using netflix.,"I don't have an artistic bone in my body, but I can appreciate the creativity of others, which is why I spend a lot of time binging artistic movies on Neftlix.",in_domain
+462,i really enjoy doing artistic things.,i spend a lot of time using netflix.,I like painting while watching television.,in_domain
+463," my dad was a proud soldier , too.",i am not a vegan.,I grew up on the cattle ranch that was passed down to my dad.,in_domain
+464," my dad was a proud soldier , too.",i am not a vegan.,My dad ate meat on the battle field.,in_domain
+465," my dad was a proud soldier , too.",i am not a vegan.,It was hard for my dad because there was no vegan option in the army.,in_domain
+466,i dye my hair.,i am a wallflower but i am not insecure.,Dying my hair gets me all the attention I need.,in_domain
+467,i dye my hair.,i am a wallflower but i am not insecure.,I'm trying to talk myself into dying mine an unusual color.,in_domain
+468,i dye my hair.,i am a wallflower but i am not insecure.,"I dye mine as well on occasion, but being secure in my status as a wallflower, I only ever make use of unobtrusive natural colors.",in_domain
+469,i dye my hair.,i am a wallflower but i am not insecure.,"I have done lots of styling to alter my looks over time -- now I just try and stay consistent with how I feel/""resonate"" internally.",in_domain
+470,i dye my hair.,i am a wallflower but i am not insecure.,I used to dye my hair.  I was really confident about it.,in_domain
+471,i dye my hair.,i am a wallflower but i am not insecure.,I like to try different hairstyles but I'm quite confident.,in_domain
+472,water is not my friend.,my grandfather fought in the second world war.,My grandfather didn't know how to swim either.  He fought in WW2.,in_domain
+473,water is not my friend.,my grandfather fought in the second world war.,My grandfather was in the seals and did a lot of water based deployments.,in_domain
+474,water is not my friend.,my grandfather fought in the second world war.,I guess you will not join the navy.,in_domain
+475,my mom works in a library with books.,i want to write for a living.,I love to read and write.,in_domain
+476,my mom works in a library with books.,i want to write for a living.,I love libraries because of all the books.,in_domain
+477,my mom works in a library with books.,i want to write for a living.,i envy people who handle books all day,in_domain
+478,my mom works in a library with books.,i want to write for a living.,I like reading and writing so books are fine with me quite often.,in_domain
+479,my mom works in a library with books.,i want to write for a living.,I have always loved reading and writing,in_domain
+480,my mom works in a library with books.,i want to write for a living.,My mom is a librarian.  She convinced me to become a writer.,in_domain
+481,i have a lot of kids and pets.,frozen treats are amongst my favorites.,I feed them anything I want.,in_domain
+482,i have a lot of kids and pets.,frozen treats are amongst my favorites.,My kids are great.  We like to eat ice cream together.,in_domain
+483,i have a lot of kids and pets.,frozen treats are amongst my favorites.,I give my children popsicles when they behave well.,in_domain
+485,i have a lot of kids and pets.,frozen treats are amongst my favorites.,I like to make things with my kids.,in_domain
+486,i have a lot of kids and pets.,frozen treats are amongst my favorites.,I generally avoid kids and pets too often because it can really put a dent in my low-stress lifestyle and food binging luxuries.,in_domain
+487,i go to exercise classes.,i am employed a traditional number of hours.,I teach exercise classes to adults.,in_domain
+488,i go to exercise classes.,i am employed a traditional number of hours.,"I really value my exercise classes, but it's so hard to find one that offers flexibility around my full-time job.",in_domain
+489,i go to exercise classes.,i am employed a traditional number of hours.,i work as a freelance fitness trainer,in_domain
+490,i participate in a sport using a racket and ball.,i am married to a lecturer at the university of maryland.,My husband is tennis player and educator.  I am married to a lecturer at the University of Maryland.,in_domain
+491,i participate in a sport using a racket and ball.,i am married to a lecturer at the university of maryland.,I play next to a college.,in_domain
+492,i participate in a sport using a racket and ball.,i am married to a lecturer at the university of maryland.,On weekends my wife and I go out onto the courts to play racketball.,in_domain
+493,i enjoying going on the sand.,i love books.,I love reading books while sunbathing in the sand.,in_domain
+494,i enjoying going on the sand.,i love books.,I don't so much enjoy going on the sand so much as being on it and reading a good book.  I love books.,in_domain
+495,i enjoying going on the sand.,i love books.,I love going to the beach and reading a good book.,in_domain
+496,i love my two siblings.,my moms pulls teeth at work.,My brother just lost his first tooth.,in_domain
+498,i love my two siblings.,my moms pulls teeth at work.,It's just me and my mom. She pulls teeth to make money for us.,in_domain
+499,i work in computer art animation.,i am on the lookout for a new partner.,I need people to help me animate.,in_domain
+500,i work in computer art animation.,i am on the lookout for a new partner.,I need a new partner on this comic book that I'm working on.,in_domain
+501,i work in computer art animation.,i am on the lookout for a new partner.,I own a business with a partner.,in_domain
+502,my job takes most of my time.,i really need to go to the gym more.,I don't even have time to work out.,in_domain
+503,my job takes most of my time.,i really need to go to the gym more.,"The same with my job, and as you can see, I could use some exercise time.",in_domain
+504,my job takes most of my time.,i really need to go to the gym more.,I work at a gym.,in_domain
+505,i volunteer at an animal shelter.,i like to read old books.,There are many books at the shelter.,in_domain
+506,i volunteer at an animal shelter.,i like to read old books.,I volunteer by reading books to children.,in_domain
+507,i volunteer at an animal shelter.,i like to read old books.,I volunteer by reading to children.,in_domain
+508,my dad has strict political beliefs.,i like going in the ocean to look at fish and other big creatures under the water.,"Mine weren't into politics, they were more about nature.",in_domain
+509,my dad has strict political beliefs.,i like going in the ocean to look at fish and other big creatures under the water.,My dad always used to take me swimming at the ocean when I was a boy.,in_domain
+510,my dad has strict political beliefs.,i like going in the ocean to look at fish and other big creatures under the water.,I like discussing politics with my dad while fishing.,in_domain
+511,i love being in the ocean.,the secret to my success is that i make money on the side.,"Me too, that's why I'm trying to save up enough so that I can spend all day in the ocean.",in_domain
+512,i love being in the ocean.,the secret to my success is that i make money on the side.,I love being at the beach.  I can go anytime I want because I have a side job that makes me lots of money on the side.,in_domain
+513,i love being in the ocean.,the secret to my success is that i make money on the side.,I have a beach house that I like to spend any extra time I can find at.,in_domain
+514,i take alot of calls.,seeing guys beat each other up on tv is awesome.,i work at a domestic violence hotline,in_domain
+515,i take alot of calls.,seeing guys beat each other up on tv is awesome.,I'm on the phone while watching tv.,in_domain
+516,i take alot of calls.,seeing guys beat each other up on tv is awesome.,I don't like taking calls when I'm watching tv.  I like to watch people beat each other on tv.,in_domain
+517,i stay asleep all night.,i do not like to talk over the telephone.,"I stay asleep all night now that I shut my phone off before I go to bed. It's no loss either; to be honest, I don't like to talk over the telephone.",in_domain
+518,i stay asleep all night.,i do not like to talk over the telephone.,I like talking to friends at night.,in_domain
+519,i stay asleep all night.,i do not like to talk over the telephone.,I hate telephones because talking on the telephone keeps me up all night and I can never get to sleep.,in_domain
+520,i take my pet on walks daily.,i find moa to be interesting.,We walk past the MOA,in_domain
+521,i take my pet on walks daily.,i find moa to be interesting.,I have a bird that I actually have to take on walks.,in_domain
+522,i take my pet on walks daily.,i find moa to be interesting.,I once owned a dog who liked to chase birds.,in_domain
+523,i take my pet on walks daily.,i find moa to be interesting.,I love walking my dog.  I always run into my friend and we talk about moa.,in_domain
+524,i take my pet on walks daily.,i find moa to be interesting.,"I generally like walking, say, dogs or such through new, unexplored areas as often as I can.",in_domain
+525,i take my pet on walks daily.,i find moa to be interesting.,I like to go birdwatching with them.,in_domain
+526,i really like sugary drinks.,my father has a job on an oil rig.,My dad buys me sugary drinks.,in_domain
+527,i really like sugary drinks.,my father has a job on an oil rig.,my job requires me to drink sugary drinks so I can stay awake,in_domain
+528,i really like sugary drinks.,my father has a job on an oil rig.,My father used to tell me that drilling for oil on the rig was a lot like poking straws into sugary drinks to drink them up.,in_domain
+529,i really like sugary drinks.,my father has a job on an oil rig.,Sugary drinkns help me keep awake at my job.,in_domain
+530,i really like sugary drinks.,my father has a job on an oil rig.,My parents could easily afford sweet drinks.,in_domain
+531,i really like sugary drinks.,my father has a job on an oil rig.,My father always takes candy and soda with him on the rig to keep himself energized.,in_domain
+532,i enjoy perceiving nonsense stories.,i eat a lot of carbs.,I saw a story about how bread is healthy.,in_domain
+533,i enjoy perceiving nonsense stories.,i eat a lot of carbs.,"Silly stories are like carbs, filling but nutritionally empty.",in_domain
+534,i enjoy perceiving nonsense stories.,i eat a lot of carbs.,I listen to a lot of audiobooks while I'm training for my marathons.,in_domain
+535,i have a very strong body.,i like historical films.,"My favorite historical film, Spartacus, inspired me to work out and get a strong body like the gladiators in that movie.",in_domain
+536,i have a very strong body.,i like historical films.,I like watching classic bodybuilding videos.,in_domain
+538,i have no job.,i go walking with my kids outside.,I work as a dog walker.,in_domain
+539,i have no job.,i go walking with my kids outside.,I can't afford to do much.,in_domain
+541,my siblings are my best friends.,i lift weights four times a week.,I go to the gym every week with my brother.,in_domain
+545,my siblings are my best friends.,i lift weights four times a week.,I lift weights with my siblings.,in_domain
+546,my siblings are my best friends.,i lift weights four times a week.,"Same! My brother and I are gym buddies, we usually lift weights together.",in_domain
+547,i like catching sharks.,i like things that are not complicated.,fishing takes my mind off a lot of things,in_domain
+548,i like catching sharks.,i like things that are not complicated.,"I like catching sharks, which looks hard but it's pretty simple: a cage, a spear gun, that's all you need—and that's good because I like things that aren't complicated.",in_domain
+549,i like catching sharks.,i like things that are not complicated.,I can't imagine trying something that exciting.,in_domain
+550,i start putting up ornaments and garlands early in december.,i like to catch animals.,I go hunting for the Christmas feast.,in_domain
+551,i start putting up ornaments and garlands early in december.,i like to catch animals.,The ornaments look like my favorite animals.,in_domain
+552,i start putting up ornaments and garlands early in december.,i like to catch animals.,"Animals sometimes get stuck in our Christmas ornaments in December, so I catch those ones by accident.",in_domain
+553,i really do not enjoy preparing food for myself.,i like playing x box.,I prefer playing video games instead,in_domain
+554,i really do not enjoy preparing food for myself.,i like playing x box.,But I often play x box for so long that I don't have any time to cook food for myself and have to order delivery.,in_domain
+555,i really do not enjoy preparing food for myself.,i like playing x box.,"Most of my meals are frozen foods that I heat up in the microwave, so I have more time to play video games. I like playing X Box.",in_domain
+556,i am finally done with school.,i do not eat a lot of carbs.,I will miss school breakfast.,in_domain
+557,i am finally done with school.,i do not eat a lot of carbs.,School is stressful.  I'm glad I'm not under stress.  I'm able to stay away from carbs.,in_domain
+558,i am finally done with school.,i do not eat a lot of carbs.,"I used to eat a ton when I was in school, but now that I'm working a job I have to watch what I eat.",in_domain
+559,i like trips to the ocean.,i work in a hospital.,The good thing about the ocean is it's an open place to get away from hard work.,in_domain
+560,i like trips to the ocean.,i work in a hospital.,I can afford to see every ocean.,in_domain
+561,i like trips to the ocean.,i work in a hospital.,I could sure use a vacation.,in_domain
+562,i like trips to the ocean.,i work in a hospital.,That sounds like fun.  I need to take off a week from the hospital for a vacation.,in_domain
+563,i like trips to the ocean.,i work in a hospital.,When I'm working with a terminally ill patient at the hospital the staff will sometimes take him on a trip to the ocean to lift their spirits.,in_domain
+564,i like trips to the ocean.,i work in a hospital.,"My job can be stressful, so I look forward to going to the beach to relax.",in_domain
+565,i am employed at a business that serves mocha and other caffeinated drinks.,i have a kitten with a sci fi name.,"I love sci fi themes so much that when I opened my coffee business, I called it Cyber Coffee and decorated the interiors with science-fiction decor.",in_domain
+566,i am employed at a business that serves mocha and other caffeinated drinks.,i have a kitten with a sci fi name.,I used to frequent cat cafes all the time.,in_domain
+567,i am employed at a business that serves mocha and other caffeinated drinks.,i have a kitten with a sci fi name.,I really like watching the Mandelorian while sitting in a my favorite coffee shop.,in_domain
+568,i love to exercise on a machine with two wheels and foot powered pedals.,i enjoy art.,I actually look at art books when I'm exercising because it keeps my focused.,in_domain
+569,i love to exercise on a machine with two wheels and foot powered pedals.,i enjoy art.,"I love to exercise on a machine with two wheels and foot powered pedals and when I do, I usually visit this lovely outdoor gallery nearby. It's terrific because I can check out the artwork and still exercise, which is perfect because I really enjoy art.",in_domain
+570,i love to exercise on a machine with two wheels and foot powered pedals.,i enjoy art.,I prefer more sedentary activities.,in_domain
+571,i am a woman and enjoy the company of men.,i find pleasure in cooking.,Maybe we could make a meal together?,in_domain
+572,i am a woman and enjoy the company of men.,i find pleasure in cooking.,I do things that make men happy.,in_domain
+573,i am a woman and enjoy the company of men.,i find pleasure in cooking.,Being single gives me a lot of time for my hobbies.,in_domain
+574,i am a woman and enjoy the company of men.,i find pleasure in cooking.,"Since I am a woman that enjoys the company of men, my love for cooking goes along way in attracting them.",in_domain
+575,i am a woman and enjoy the company of men.,i find pleasure in cooking.,I like to cook for any boyfriends I have.,in_domain
+576,i am a woman and enjoy the company of men.,i find pleasure in cooking.,my last man required me to make him meals every night,in_domain
+577,i have a lot of children.,i am a ninja.,"I only have one kid, how do you take time for yourself with so many kids?",in_domain
+578,i have a lot of children.,i am a ninja.,I teach kids martial arts.  I'm a ninja.,in_domain
+579,i have a lot of children.,i am a ninja.,My children are enrolled in karate classes.,in_domain
+581,i will be attending college in california.,i like chilling on the web.,I used to do nothing in college.,in_domain
+582,i will be attending college in california.,i like chilling on the web.,"I thought about attending a traditional college, but I instead opted to attend an online university since chilling on the web has always been a passion of mine.",in_domain
+583,i am a cub master at our local den.,i sound like the stars.,"I was never in scouts, because I thought it was too dorky, and I'm too cool for that.",in_domain
+584,i am a cub master at our local den.,i sound like the stars.,I sang once for cub scouts.,in_domain
+585,i am a cub master at our local den.,i sound like the stars.,I love overnight camping trips.,in_domain
+586,i am a cub master at our local den.,i sound like the stars.,I sing at the local den.,in_domain
+587,i am a cub master at our local den.,i sound like the stars.,I have no clue what qualifications or anything really a cub master would do or sound like even.,in_domain
+588,i am a cub master at our local den.,i sound like the stars.,That's cool! Did you have to do a peer review yet? What did the kids say about you?,in_domain
+589,sports are fun.,i work in construction and repair peoples roofs.,I love activities where I am active.,in_domain
+590,sports are fun.,i work in construction and repair peoples roofs.,"Yes, wouldn't it be great to be able to play sports for a living?",in_domain
+591,sports are fun.,i work in construction and repair peoples roofs.,i like being active,in_domain
+592,i am employed with a tv crew making educational material.,outside activities such as hiking are my favorites.,I enjoy hiking so much that I've started to make educational films about hiking safety.,in_domain
+593,i am employed with a tv crew making educational material.,outside activities such as hiking are my favorites.,I have many things I like to do when I get off,in_domain
+594,i am employed with a tv crew making educational material.,outside activities such as hiking are my favorites.,You should make educational material about the outdoors.,in_domain
+595,i have a lot of money.,i feel at home on the water.,I would use that money to buy a boat.,in_domain
+596,i have a lot of money.,i feel at home on the water.,I would live on a yacht if I had all the money in the world.,in_domain
+597,i have a lot of money.,i feel at home on the water.,I am a great fisherman,in_domain
+598,i have a lot of money.,i feel at home on the water.,I own my own yacht.,in_domain
+599,i have a lot of money.,i feel at home on the water.,I was able to buy a home near the ocean after finally saving enough money to move.,in_domain
+600,i have a lot of money.,i feel at home on the water.,I want to save my money to buy a houseboat.  I love being on the water.,in_domain
+601,i have adopted two pets.,my kids are basically adults.,"My kids always wanted pets when they were growing up and I never let them, so now that they're adults living on their own, they've each bought a pet.",in_domain
+602,i have adopted two pets.,my kids are basically adults.,I have adopted two children.,in_domain
+603,i have adopted two pets.,my kids are basically adults.,Its nice to have someone in the house for a change.,in_domain
+604,i enjoy spending time in the water.,hearing people sing from the heart can move me to tears.,"I really like swimming for sport, but in my spare time I like to go to the opera. Do you enjoy opera music?",in_domain
+605,i enjoy spending time in the water.,hearing people sing from the heart can move me to tears.,There is a singer at the water park,in_domain
+606,i enjoy spending time in the water.,hearing people sing from the heart can move me to tears.,I like pool parties with music.  A good song can bring me to tears.,in_domain
+608,my mom has too many clothes.,i only own a single set of footwear.,I own way too many clothes so I try not to buy too many shoes.,in_domain
+609,my mom has too many clothes.,i only own a single set of footwear.,My mother has too many shoes.,in_domain
+610,my parent is a music shaker.,i like art and animals.,My parents make music while I draw my pets.,in_domain
+611,my parent is a music shaker.,i like art and animals.,Mine paints dogs.,in_domain
+613,i love my pets.,i am a educator.,I work as a dog trainer.,in_domain
+614,i love my pets.,i am a educator.,I have pets in my classroom.  I am a teacher.,in_domain
+615,i love my pets.,i am a educator.,I used to be a pet groomer while I was a student.,in_domain
+616,i am quarterback for the patriots.,i cruise in a rebuilt sports car.,I used to chaffeur professional sports athletes.,in_domain
+617,i am quarterback for the patriots.,i cruise in a rebuilt sports car.,I bought a car from a Patriot.,in_domain
+618,i am quarterback for the patriots.,i cruise in a rebuilt sports car.,I can finally afford all the sports car modifications I want because I won a lot of money playing fantasy football.,in_domain
+619,farms have cool animals.,my parents own there own compnay.,we own a farm,in_domain
+620,farms have cool animals.,my parents own there own compnay.,I used to work on a farm.  My parents owned it.,in_domain
+621,farms have cool animals.,my parents own there own compnay.,I kind of own a farm.,in_domain
+622,i stay home and take care of the kids.,people call me weird names.,I feel like an outcast when I stay at home too much,in_domain
+624,i stay home and take care of the kids.,people call me weird names.,Oh that must be really nice for you! Does anyone say anything about you being a stay at home father?,in_domain
+626,i enjoy books.,i like the ocean.,I like reading outdoors.,in_domain
+627,i enjoy books.,i like the ocean.,My favorite thing to do at the ocean is read books.,in_domain
+628,i study art.,i love to receive bouquets.,I studied floral arrangement.,in_domain
+629,i study art.,i love to receive bouquets.,"I like anything with art, especially flowers.  I love getting bouquets.",in_domain
+630,i study art.,i love to receive bouquets.,"Art is pretty, but the prettiest things I like are the bouquets I like to receive.",in_domain
+631,i am travelling to italy with a friend.,my father has been absent from my lifel.,I traveled to Italy once with my dad.,in_domain
+632,i am travelling to italy with a friend.,my father has been absent from my lifel.,"I never travelled much. My father has, but he has been out of my life for a while.",in_domain
+633,i am travelling to italy with a friend.,my father has been absent from my lifel.,My friend is the only one I am close to.,in_domain
+634,i spend a lot of time watching tv.,i love being with freezing water.,I enjoy drinking cups of freezing water when I'm relaxing at the end of the day watching television.,in_domain
+635,i spend a lot of time watching tv.,i love being with freezing water.,I watch skiing shows.,in_domain
+636,i spend a lot of time watching tv.,i love being with freezing water.,My furnace stopped working and it was freezing in my house.  I was watching TV with a thick blanket around me on my couch.,in_domain
+637,my mom was a british ballerina.,i will be 26 this spring.,"I took ballet when I was a teenager, but I'll be 26 in the spring.",in_domain
+638,my mom was a british ballerina.,i will be 26 this spring.,Mom had me at 26.,in_domain
+640,i am unmotivated and not wealthy and my marriage is failing.,i am a painter of landscapes.,"I don't make much money painting, and it's damaging my marriage.",in_domain
+641,i am unmotivated and not wealthy and my marriage is failing.,i am a painter of landscapes.,Art has ruined my marriage.,in_domain
+642,i am unmotivated and not wealthy and my marriage is failing.,i am a painter of landscapes.,I don't make a lot of money either.  I paint landscapes and that doesn't make a lot of money.,in_domain
+643,i am unmotivated and not wealthy and my marriage is failing.,i am a painter of landscapes.,I don't know what I want to do either.  Right now I'm a landscape painter.,in_domain
+645,i am unmotivated and not wealthy and my marriage is failing.,i am a painter of landscapes.,I've heard artists have a tough time with their spouses.,in_domain
+646,i am unmotivated and not wealthy and my marriage is failing.,i am a painter of landscapes.,My wife thinks I need to get a real job.,in_domain
+648,i am unmotivated and not wealthy and my marriage is failing.,i am a painter of landscapes.,I can relate because as a artist I am always starving.,in_domain
+649,i enjoy watching animated films.,i am a student at the university.,I can watch movies for free at the university.,in_domain
+650,i enjoy watching animated films.,i am a student at the university.,"I enjoy watching animated films. In fact, I love them so much that I decided to major in film production now that I'm a student at the university.",in_domain
+651,i enjoy watching animated films.,i am a student at the university.,I used to study filmmaking in university.,in_domain
+652,everyone seems to comment on my height.,i like to ride a board.,"That's too bad, have you ever done water sports? Surfing is fun and have many of boards.",in_domain
+653,everyone seems to comment on my height.,i like to ride a board.,I am too short to surf.,in_domain
+654,everyone seems to comment on my height.,i like to ride a board.,I wish I was taller.  It would make it easier to ride my board.,in_domain
+655,i like fruit.,i have a weird hobby of hunting giant reptiles in remote locations !.,Some of the locations re very exotic and have delicious rare fruits in their trees.,in_domain
+656,i like fruit.,i have a weird hobby of hunting giant reptiles in remote locations !.,I take fruit with me when I go hunting giant reptiles.,in_domain
+657,i like fruit.,i have a weird hobby of hunting giant reptiles in remote locations !.,I feed fruit to reptiles.,in_domain
+659,i like fruit.,i have a weird hobby of hunting giant reptiles in remote locations !.,I feed fruit to reptiles,in_domain
+660,i like fruit.,i have a weird hobby of hunting giant reptiles in remote locations !.,I have an iguana that loves fruit.,in_domain
+661,i have had a boyfriend for 24 months.,i enjoy working with children.,my boyfriend and i want children in the future,in_domain
+662,i have had a boyfriend for 24 months.,i enjoy working with children.,I have also been busy for the past 24 months working at a daycare.,in_domain
+665,i enjoy playing xbox.,my mom was in the computer technology field.,I like coding games for the xbox.,in_domain
+666,i enjoy playing xbox.,my mom was in the computer technology field.,We always had video games growing up.  My mom worked in computer technology.,in_domain
+667,i spend a lot of time with my parents.,i like to grow plants.,I try to. My parents are farmers and instilled a love of plant in me. I enjoy gardening and growing plants.,in_domain
+670,i enjoy working at the movies.,i named my clydesdale mr ed.,"I don't have time for movies, because my horses take up all my time.",in_domain
+671,i enjoy working at the movies.,i named my clydesdale mr ed.,I like the movies too.  I named my horse after Mr. Ed.,in_domain
+672,i enjoy working at the movies.,i named my clydesdale mr ed.,I love movies about horses.,in_domain
+673,i enjoy staring up at the sky.,i enjoy wearing costumes so you can guess what my favorite day of the year is.,I like dressing up as the moon.,in_domain
+674,i enjoy staring up at the sky.,i enjoy wearing costumes so you can guess what my favorite day of the year is.,I like to pretend I'm an astronaut in the sky.,in_domain
+675,i enjoy staring up at the sky.,i enjoy wearing costumes so you can guess what my favorite day of the year is.,I stare up in school plays.,in_domain
+676,i enjoy staring up at the sky.,i enjoy wearing costumes so you can guess what my favorite day of the year is.,"Do you have any other hobbies? I mean looking at the sky is fun, but is there something else?",in_domain
+677,i enjoy staring up at the sky.,i enjoy wearing costumes so you can guess what my favorite day of the year is.,"Astronomy is one of my favorite hobbies, as is dressing up.",in_domain
+678,i enjoy staring up at the sky.,i enjoy wearing costumes so you can guess what my favorite day of the year is.,On Halloween I get all dressed up and go outside with friends to trick-or-treat and also just enjoy the night's sky.,in_domain
+679,i help take care of pets.,my canines stay at my residence alone when i travel to see family.,My dog cannot be left alone.,in_domain
+680,i help take care of pets.,my canines stay at my residence alone when i travel to see family.,I have two dogs. They stay home alone when I travel.,in_domain
+681,i help take care of pets.,my canines stay at my residence alone when i travel to see family.,"I however, don't need help caring for my pets.",in_domain
+682,i try to stay n bed until at least noon everyday.,i am not sure why i have yet to enter into a life bond with a mate.,"Interesting, I am a morning person. I like to be up and out by eight, are you dating anyone currently? Does your partner also stay in bed until noon?",in_domain
+683,i try to stay n bed until at least noon everyday.,i am not sure why i have yet to enter into a life bond with a mate.,I am in bed looking at dating profiles.,in_domain
+684,i try to stay n bed until at least noon everyday.,i am not sure why i have yet to enter into a life bond with a mate.,i can't sleep when i'm alone in bed,in_domain
+685,i am often successful at ocean fishing.,i like things that are not complicated.,I don't like ocean fishing.  It seems too complicated.,in_domain
+686,i am often successful at ocean fishing.,i like things that are not complicated.,Fishing relaxes me.,in_domain
+688,i do not eat meat anymore.,i do not eat meat nor dairy.,I am vegan.,in_domain
+689,i do not eat meat anymore.,i do not eat meat nor dairy.,"I went vegetarian myself some time ago, however I'm also lactose-intolerant, so I'm unintentionally vegan as well.",in_domain
+691,i am going to an island soon.,i love darker hues.,I love island paintings.,in_domain
+692,i am going to an island soon.,i love darker hues.,You can have my island wardrobe.,in_domain
+693,i am going to an island soon.,i love darker hues.,I wouldn't like islands.  They are too bright for me.,in_domain
+694," i have background in my line of work , another employee got the raise.",i only need to be with my partner.,I hate when other people get raises.  My partner makes me feel better though.,in_domain
+695," i have background in my line of work , another employee got the raise.",i only need to be with my partner.,I quit my job.,in_domain
+696," i have background in my line of work , another employee got the raise.",i only need to be with my partner.,"My partner just got a raise at her place of employment, so she'll be able to support both of us.",in_domain
+698,i eat meat.,my job entails writing.,I write about the meat I eat.,in_domain
+700,i eat meat.,my job entails writing.,I like eating meat when I'm writing my assignments for work.,in_domain
+701,i eat meat.,my job entails writing.,I used to date a food critic.,in_domain
+702,i eat meat.,my job entails writing.,I talk about meat as a food critic,in_domain
+703,my favorite hobby is reading novels.,one of my passions is to visit other cities and countries.,"When I get absorbed in a good fiction book, it's the exotic locales that most intrigue me, which is probably why international travel has become one of my biggest passions.",in_domain
+704,my favorite hobby is reading novels.,one of my passions is to visit other cities and countries.,I like reading novels.  I imagine that I'm in the places they are set in because I want to travel.,in_domain
+705,my favorite hobby is reading novels.,one of my passions is to visit other cities and countries.,I like reading novels that take place in other countries.,in_domain
+706,my mother and father would allow my sibling and i to come during our childhood.," i refuse to go in the ocean , i am afraid that i will drown.","My mother and father would allow me and my sibling to come during our childhood and we've loved the beach ever since. But only the beach, not the ocean—I refuse to go in the ocean because I'm terrified I'm going to drown.",in_domain
+707,my mother and father would allow my sibling and i to come during our childhood.," i refuse to go in the ocean , i am afraid that i will drown.",We used to go to the beach.,in_domain
+708,my mother and father would allow my sibling and i to come during our childhood.," i refuse to go in the ocean , i am afraid that i will drown.",I used to hang out at my parent's beach house when I was a child.,in_domain
+709,my mother and father would allow my sibling and i to come during our childhood.," i refuse to go in the ocean , i am afraid that i will drown.",Having a beach house would scare me.,in_domain
+710,my mother and father would allow my sibling and i to come during our childhood.," i refuse to go in the ocean , i am afraid that i will drown.","The only time I went swimming in the ocean was when my parents took me with my brother, and my brother kept me safe in the water.",in_domain
+711,my mother and father would allow my sibling and i to come during our childhood.," i refuse to go in the ocean , i am afraid that i will drown.",my parents live next to the ocean,in_domain
+712,i am in charge of my dad and moms company.,i am going to an island soon.,I work at a vacation resort.,in_domain
+713,i am in charge of my dad and moms company.,i am going to an island soon.,"The island's a vacation from my job, where I'm in charge of a company.",in_domain
+716,children in elementary shool are an enjoyment to work with.,i want to get in shape.,I got my first weight set when I was 12 and I am now a professional bodybuilder.,in_domain
+717,children in elementary shool are an enjoyment to work with.,i want to get in shape.,I work as a PE teacher at an elementary school.,in_domain
+718,i live in the state by colorado.,my spouse works putting out fires.,"There are alot of fires in Colorodo right now, and my husband is a firefighter.",in_domain
+719,i live in the state by colorado.,my spouse works putting out fires.,"Oh, wow, the western states have really had a problem with wildfires this summer.",in_domain
+720,i live in the state by colorado.,my spouse works putting out fires.,there are a lot of forest fires in colorado,in_domain
+722,i raise animals.,i help take care of pets.,I was born on a farm.  I love caring for pets.,in_domain
+723,i raise animals.,i help take care of pets.,I have a dog that needs dogsitting.,in_domain
+724,i raise animals.,i help take care of pets.,I work at the shelter.,in_domain
+725,i raise animals.,i help take care of pets.,"That's cool, is that your job? What exactly do you do?",in_domain
+726,i raise animals.,i help take care of pets.,I grew up on a farm.  Now I work taking care of animals.,in_domain
+727,i work in agriculture.,i have my bachelors degree.,"I initially wanted a job in food science, a similar field, but the career in advertising that I fell into means my bachelors degree is all but useless.",in_domain
+728,i work in agriculture.,i have my bachelors degree.,"I work as a farmer, but I have a bachelors degree in business.",in_domain
+729,i work in agriculture.,i have my bachelors degree.,I want to study agriculture in college,in_domain
+730,i like tv and running outside.,i spend time at the pool.,"When I run outside, it is to get to water.",in_domain
+731,i like tv and running outside.,i spend time at the pool.,I love the outdoors.  One of my favorite things to do is swim.,in_domain
+733,i enjoy moving to music.,i am willing to pay for quality.,"Yes, music is a passion of mine.  I get expensive turntables and speakers.  I am will to pay for quality.",in_domain
+734,i enjoy moving to music.,i am willing to pay for quality.,I like dancing too.  I pay to go to a really nice dance studio.,in_domain
+735,i enjoy moving to music.,i am willing to pay for quality.,i love high quality djs,in_domain
+736,i enjoy moving to music.,i am willing to pay for quality.,"I like listening to music and dancing, too. That's why I pay for a music streaming service.",in_domain
+737,i enjoy moving to music.,i am willing to pay for quality.,I love high quality music.,in_domain
+738,i enjoy moving to music.,i am willing to pay for quality.,I am not much of a dancer.  My biggest interest is my collection of fine wines.,in_domain
+739,i enjoy moving to music.,i am willing to pay for quality.,It's hard to pirate good quality music.,in_domain
+740,i enjoy moving to music.,i am willing to pay for quality.,I hate choppy bootlegged music.,in_domain
+741,i enjoy moving to music.,i am willing to pay for quality.,"I am not much of a dancer, but I do love a good wine.",in_domain
+742,i enjoy moving to music.,i am willing to pay for quality.,"I love watching dancers moving to music, but the most expensive ones are always the best.",in_domain
+743,i enjoy moving to music.,i am willing to pay for quality.,I love music also and am always on the search for the best.,in_domain
+744,i enjoy moving to music.,i am willing to pay for quality.,I subscribe to some good music services.,in_domain
+745,i enjoy moving to music.,i am willing to pay for quality.,"I like dancing too, do you have any dance shoes or something? Were they expensive?",in_domain
+746,i enjoy moving to music.,i am willing to pay for quality.,I pay for high quality music to move to.,in_domain
+747,i enjoy moving to music.,i am willing to pay for quality.,I love when you get a new album with sharp crisp sound.,in_domain
+749,i enjoy moving to music.,i am willing to pay for quality.,I pay for several different streaming services.,in_domain
+750,i enjoy moving to music.,i am willing to pay for quality.,I paid for a cheap music dance class recently and the instructor was terrible. You get what you pay for!,in_domain
+752,i am addicted to the casino.,i regularly clean my plate during a meal.,I like casino food.,in_domain
+753,i am addicted to the casino.,i regularly clean my plate during a meal.,I only go for the buffets.,in_domain
+754,i am addicted to the casino.,i regularly clean my plate during a meal.,I eat all the food on my plate at the casino restaurant.,in_domain
+755,i am addicted to the casino.,i regularly clean my plate during a meal.,The only time I didn't clean my plate was when I went gambling in Vegas. There were so many lights in the casino that I got distracted.,in_domain
+756,i am addicted to the casino.,i regularly clean my plate during a meal.,I like the casino buffets.,in_domain
+757,i live a comfortable life.,my hands are full.,"I have a good life too, but I'm always busy.",in_domain
+758,i live a comfortable life.,my hands are full.,I take care of my ten kids with ease.,in_domain
+759,i live a comfortable life.,my hands are full.,i like always having things to do,in_domain
+760,i do not know my real parents.,i tend to be cold hearted when it comes to affection.,My parents were very loving.,in_domain
+761,i do not know my real parents.,i tend to be cold hearted when it comes to affection.,I was adopted too.  It makes me a bit cold hearted.,in_domain
+762,i do not know my real parents.,i tend to be cold hearted when it comes to affection.,I grew up without any family.,in_domain
+763,making cookies is fun.,my mom was an educator.,I like making cookies also and teaching people how to make cookies.,in_domain
+765,making cookies is fun.,my mom was an educator.,I love teaching my child how to make cookies.,in_domain
+766,the color of my locks in not natural.,i have no siblings.,"Since I had no brothers or sisters, my mom had to teach me how to cut and dye my hair when I was growing up.",in_domain
+767,the color of my locks in not natural.,i have no siblings.,My sibling has a different hair color than me.,in_domain
+768,the color of my locks in not natural.,i have no siblings.,I used to try all kinds of weird things with my hair when I was bored as a child.,in_domain
+769,i have a parent who is from the soviet.,i try to be too fit.,All of the Soviet Olympians were very fit and good at their sports.,in_domain
+770,i have a parent who is from the soviet.,i try to be too fit.,They raised me to always exercise.,in_domain
+771,i have a parent who is from the soviet.,i try to be too fit.,I heard the soviets were very fit.,in_domain
+772,i do not listen to the opinions of most people.,i often enter a room only to stop and wonder why i came there.,I listen but I can never seem to remember anything.,in_domain
+773,i do not listen to the opinions of most people.,i often enter a room only to stop and wonder why i came there.,"People tell me I never listen to their opinions, but I do listen, I just forget. I'm very forgetful.",in_domain
+774,i do not listen to the opinions of most people.,i often enter a room only to stop and wonder why i came there.,I never liked my peers talking to me at school.,in_domain
+775,i have children and i am a woman.,i love being a mom.,Being a woman with children is a great honor.,in_domain
+776,i have children and i am a woman.,i love being a mom.,I can't imagine what it's like being a mother.,in_domain
+777,i have children and i am a woman.,i love being a mom.,"Me too, isn't it wonderful.",in_domain
+778,i like the tone of citrus.,my job can be described as clerical.,I always put on a scent when going to church,in_domain
+779,i like the tone of citrus.,my job can be described as clerical.,"Tone of citrus, that sounds incredibly descriptive, are you a creative for your day job?",in_domain
+780,i like the tone of citrus.,my job can be described as clerical.,You should come to the fruit market I work at.,in_domain
+781,i like the tone of citrus.,my job can be described as clerical.,My cubicle has a citrus tone to it.,in_domain
+782,i like the tone of citrus.,my job can be described as clerical.,"The circus is great.  It makes me happy, unlike my dull office job.",in_domain
+783,i like the tone of citrus.,my job can be described as clerical.,I like the smell of citrus too! I also really like amber. Did you ever tell me what it is you do for work?,in_domain
+784,i work on my days off.,i spend a lot of time answering phones.,People are always getting me to hang out.,in_domain
+785,i work on my days off.,i spend a lot of time answering phones.,I work a lot too.  I work in a place answering phones.,in_domain
+786,i work on my days off.,i spend a lot of time answering phones.,I work from home with a call center.,in_domain
+787,my office is the internet.,i love steaks.,I couldn't handle being cooped up in an office. I even barbecue all my meals so I can be outdoors.,in_domain
+788,my office is the internet.,i love steaks.,I was on the internet the other day.  Did you know you can order steaks online?  I love steaks.,in_domain
+789,my office is the internet.,i love steaks.,"My office is the kitchen.  I love to cook and eat, and especially I love steaks.",in_domain
+790,i went out for the government.,i know a lot about machinery.,I know nothing about politics.,in_domain
+791,i went out for the government.,i know a lot about machinery.,Our factory is funded by the government.,in_domain
+792,i went out for the government.,i know a lot about machinery.,I work for a private company.  I work with machinery.,in_domain
+793,i want to be an actress.,i studied at school during my childhood.,I studied acting when I was a child in school.,in_domain
+794,i want to be an actress.,i studied at school during my childhood.,"I studied theater because I also wanted to be an actor, but I couldn't find work.",in_domain
+795,i want to be an actress.,i studied at school during my childhood.,I have acted since I was young.,in_domain
+796,i go to the mall to hang out.,i enjoy visiting places that have a lot of action.,My favorite places to visit are clubs and the mall because they're both so exciting.,in_domain
+798,i go to the mall to hang out.,i enjoy visiting places that have a lot of action.,I like malls because there are so many people.,in_domain
+799,i like the time of the year when i can shoot down waterfowl.,my girl betrayed me with a man who i thought i was friends with.,When I was hunting I left my girl at home.,in_domain
+800,i like the time of the year when i can shoot down waterfowl.,my girl betrayed me with a man who i thought i was friends with.,"I don't know about waterfowl, but I know about being shot down.",in_domain
+801,i like the time of the year when i can shoot down waterfowl.,my girl betrayed me with a man who i thought i was friends with.,"I used to hunt, but my girlfriend left me for my hunting buddy.",in_domain
+802,i hate overtime.,i excercise my right as a us citizen.,I fired all of my employees that worked too much.,in_domain
+803,i hate overtime.,i excercise my right as a us citizen.,They have to pay you if you work overtime in the US.,in_domain
+804,i hate overtime.,i excercise my right as a us citizen.,"I don't like it either, but you have rights to quit.",in_domain
+805,i like the tone of cash.,i would like to be employed.,I would love some cash in my hand.,in_domain
+806,i like the tone of cash.,i would like to be employed.,I wish I heard it more often.,in_domain
+807,i like the tone of cash.,i would like to be employed.,Cash money is a good thing.  I really want to get a job.,in_domain
+808,i am in great shape.,i need to study harder and get better grades.,I don't exercise enough because of my studies.,in_domain
+809,i am in great shape.,i need to study harder and get better grades.,I'm not. I've been concentrating too hard on school to exercise. I have to get good grades.,in_domain
+810,i am in great shape.,i need to study harder and get better grades.,I would love to work out more but I am busy with school.,in_domain
+811,home grown vegetables are better for you.,i have not seen him for 24 months.,"My friend used to give me home grown tomatoes, but I haven't seen him in two years.",in_domain
+812,home grown vegetables are better for you.,i have not seen him for 24 months.,My husband is a vegan.,in_domain
+813,home grown vegetables are better for you.,i have not seen him for 24 months.,My friend went to go get veggies,in_domain
+814,home grown vegetables are better for you.,i have not seen him for 24 months.,"My mother used to give me home grown veggies, but I haven't seen her in two years.",in_domain
+815,home grown vegetables are better for you.,i have not seen him for 24 months.,My husband is an excellent gardener.,in_domain
+817,home grown vegetables are better for you.,i have not seen him for 24 months.,My boyfriend was really into his organic garden.,in_domain
+818,home grown vegetables are better for you.,i have not seen him for 24 months.,My son used to grow vegetables.,in_domain
+819,home grown vegetables are better for you.,i have not seen him for 24 months.,"My brother has a veggie garden, but I haven't seen him in two years.",in_domain
+821,i bite my fingernails.,i work in sales.,I also bite my fingernails because my work makes me nervous.,in_domain
+822,i bite my fingernails.,i work in sales.,"I try keep polish on mine so I won't, as appearances matter too much in my line of work.",in_domain
+823,i want to help people.,i care about others.,i would like to work at a homeless shelter,in_domain
+826,i like to work with my hands.,i am fan of everything from classic rock to rap.,I like working with music instead of my hands.  I like all kinds of music.,in_domain
+827,i like to work with my hands.,i am fan of everything from classic rock to rap.,I love playing the guitar and drums.,in_domain
+828,i like to work with my hands.,i am fan of everything from classic rock to rap.,I make music with my hands.,in_domain
+829,i like my job.,i knit presents for my friends.,I like buying gifts with the money I earn from my job.,in_domain
+830,i like my job.,i knit presents for my friends.,I make money by knitting.  I give some of my work to my friends.,in_domain
+831,i like my job.,i knit presents for my friends.,"I quit my job so I could concentrate on my hobbies, like knitting. I like knitting for my friends.",in_domain
+832,i love ethnic foods as long as they are not fishy.,as a kid i lived in southern united states.,i love souther food myself,in_domain
+833,i love ethnic foods as long as they are not fishy.,as a kid i lived in southern united states.,I always liked eating fish.  I lived on the southern Gulf Coast in the US.,in_domain
+834,i love ethnic foods as long as they are not fishy.,as a kid i lived in southern united states.,Fish is something I'm familiar with.  Ate it all the time when as a kid I lived in southern United States.,in_domain
+835,i have seen many interesting fish.,my mom and dad are more than one hundred years old.,some fish live more than a decade,in_domain
+836,i have seen many interesting fish.,my mom and dad are more than one hundred years old.,My mother and father met on a fishing trip.  They are over one hundred!,in_domain
+839,i am trying not to eat meat anymore.,i am a serious carnivore.,"I admire you for your dedication, but I couldn't go without it.",in_domain
+841,i am trying not to eat meat anymore.,i am a serious carnivore.,Methionine or tryptophan restriction can be great for health.,in_domain
+842,i am trying not to eat meat anymore.,i am a serious carnivore.,I really don't like meat because it unhealthy.  However I grew up a carnivore and its hard to break old habits.,in_domain
+844,i have a spouse and children in the us.,i like distance from society.,My family lives in the woods in Montana.,in_domain
+845,i have a spouse and children in the us.,i like distance from society.,My wife and I live in the country with our kids in the US.  We like to stay away from people.,in_domain
+847,i have a spouse and children in the us.,i like distance from society.,My spouse and kids live in the country in the US.  I don't like to be around other people.,in_domain
+848,i have a spouse and children in the us.,i like distance from society.,"I'd like to start a family someday, but I value my seclusion from society, and I can't find a partner willing to live as reclusively as myself.",in_domain
+849,i have a spouse and children in the us.,i like distance from society.,We stay in the country.,in_domain
+850,i have fresh employment mongering automobiles.,my favorite hobby is creating oil paintings.,I am selling artworks.,in_domain
+851,i have fresh employment mongering automobiles.,my favorite hobby is creating oil paintings.,The cars I see are different colors like paintings.,in_domain
+852,i have fresh employment mongering automobiles.,my favorite hobby is creating oil paintings.,I don't drive at all as my hobbies provide my income.,in_domain
+853,i love my pets.,i hail from canada.,"The most popular pet in Canada is a dog, followed closely by a cat.",in_domain
+854,i love my pets.,i hail from canada.,I once dated a girl from Canada that had three cats.,in_domain
+855,i love my pets.,i hail from canada.,My pets are from Canada.,in_domain
+856,i love my pets.,i hail from canada.,I once raised a moose.,in_domain
+857,i love my pets.,i hail from canada.,I love pets too.  I brought my dog with me when I moved from Canada.,in_domain
+858,i love my pets.,i hail from canada.,"I love my pets. Actually I love all animals: dogs, cats—even moose. Granted, moose might seem strange to you, but I hail from Canada so it makes sense.",in_domain
+859,my house is by the water.,my business is a place that does bespoke furniture coverings.,I live near my job.,in_domain
+860,my house is by the water.,my business is a place that does bespoke furniture coverings.,"I live near the water, but I work across the city.  We do furniture coverings.",in_domain
+861,my house is by the water.,my business is a place that does bespoke furniture coverings.,I love decorating houses.,in_domain
+862,reality programs with music and liveliness gets my heart racing.,i have a kitten with a sci fi name.,I am more into sci-fi myself.,in_domain
+863,reality programs with music and liveliness gets my heart racing.,i have a kitten with a sci fi name.,I watch shows with pets.,in_domain
+864,reality programs with music and liveliness gets my heart racing.,i have a kitten with a sci fi name.,I am more into science fictions programs.,in_domain
+866,my clothes are usually dark colors.,my vehicle is a dark color.,I like bright clothes but dark cars.,in_domain
+867,my clothes are usually dark colors.,my vehicle is a dark color.,I tend to stick with darker shades as well.,in_domain
+868,my clothes are usually dark colors.,my vehicle is a dark color.,It's what I chose for everything I buy. Even,in_domain
+869,my clothes are usually dark colors.,my vehicle is a dark color.,"I noticed you wear a lot of dark colors, also your home has dark colors, what else do you own that is a darker color?",in_domain
+870,my clothes are usually dark colors.,my vehicle is a dark color.,Dark colors are my favorite colors.,in_domain
+871,my clothes are usually dark colors.,my vehicle is a dark color.,"I like a lot of bright colors and patterns, even my car is pink!",in_domain
+872,my clothes are usually dark colors.,my vehicle is a dark color.,Dark colors are my favorite colors,in_domain
+873,my clothes are usually dark colors.,my vehicle is a dark color.,I like dark colors on everything as well.,in_domain
+874,my dad works on cars.,when items become low on shelves i make sure they are replenished.,My dad also owns a store.,in_domain
+875,my dad works on cars.,when items become low on shelves i make sure they are replenished.,My dad works in a store.  He stocks the shelves.,in_domain
+876,my dad works on cars.,when items become low on shelves i make sure they are replenished.,I used to work in an auto shop.,in_domain
+877,my child is very smart.,i work at the zoo.,My child wants to become a zoologist.,in_domain
+880,i am an artist.,i dress in a suit.,My job involves no art however.,in_domain
+881,i am an artist.,i dress in a suit.,I love art and fashion.  I'm always wearing suits.,in_domain
+883,i enjoy making clothing.,i enjoy listening to music.,I love artsy things.  I love music as well.,in_domain
+884,i enjoy making clothing.,i enjoy listening to music.,"I prefer something passive, like watching television.",in_domain
+885,i enjoy making clothing.,i enjoy listening to music.,I can see you have talent in fashion. I have no skills in that area.,in_domain
+886,i exercise often.,i enjoy ensnaring sea creatures and watching them suffocate in my bucket.,It gives me almost as big of a rush as animal torture.,in_domain
+887,i exercise often.,i enjoy ensnaring sea creatures and watching them suffocate in my bucket.,I work out by netting fish.,in_domain
+888,i exercise often.,i enjoy ensnaring sea creatures and watching them suffocate in my bucket.,I like to fish for exercise.  I catch sea creatures and watch them suffocate in my bucket.,in_domain
+889,i love reading scary books.,the sky is pretty.,I prefer lovely things that fill the soul.,in_domain
+890,i love reading scary books.,the sky is pretty.,I love reading scary books while I sit on my porch as the sun is setting.,in_domain
+891,i love reading scary books.,the sky is pretty.,Sometimes I have to stop reading and just look up.,in_domain
+893," in 12 weeks , i will be a parent.",my favorite hobby is creating oil paintings.,As a parent I won't have time do do my favorite things.,in_domain
+894," in 12 weeks , i will be a parent.",my favorite hobby is creating oil paintings.,"When I was pregnant, I created a lot of paintings.  That's still my favorite hobby.",in_domain
+895,i have a lot of kids and pets.," diesels or gasoline , i can fix them all.",My kids all went off to college so I have a lot of free time to work on my cars.,in_domain
+897,i have a lot of kids and pets.," diesels or gasoline , i can fix them all.",My kids help me work on cars.  I can fix diesel or gas engines.,in_domain
+899,i have a lot of kids and pets.," diesels or gasoline , i can fix them all.",I have a rather large family that I support.  I do this by fixing diesel or gasoline engines.,in_domain
+900,i have a lot of kids and pets.," diesels or gasoline , i can fix them all.",I work as a mechanic to support my family.,in_domain
+901,i love cats and their babies.,i am in the arm forces.,We adopted a cat while in the army.,in_domain
+902,i love cats and their babies.,i am in the arm forces.,I got to go visit a cool zoo overseas.  I'm in the armed forces.,in_domain
+903,i love cats and their babies.,i am in the arm forces.,I had to give away my pets.,in_domain
+904,i love cats and their babies.,i am in the arm forces.,I take my cats with me while I travel the world in the armed forces.,in_domain
+905,i love cats and their babies.,i am in the arm forces.,I was so sad when I was deployed and had to leave my cat behind.,in_domain
+906,i love cats and their babies.,i am in the arm forces.,My army group once found abandoned kittens in enemy territory and brought them home with us.,in_domain
+907,i want to write for a living.,fictional books and personal writings are genres i enjoy reading.,I once wrote a fictional autobiography.,in_domain
+908,i want to write for a living.,fictional books and personal writings are genres i enjoy reading.,What are you going to write?  Fictional books an personal writings are genres I enjoy reading.,in_domain
+909,i want to write for a living.,fictional books and personal writings are genres i enjoy reading.,I like books.  I really like reading fiction and personal writings.,in_domain
+910,i want to write for a living.,fictional books and personal writings are genres i enjoy reading.,"I tried writing my own fiction books, but I could never get them sold.",in_domain
+911,i want to write for a living.,fictional books and personal writings are genres i enjoy reading.,"Writing is my passion.  When I write, I read my own work to be entertained.",in_domain
+912,i want to write for a living.,fictional books and personal writings are genres i enjoy reading.,I want to write for a living and I derive a lot of inspiration from all the reading I do. Fictional books and personal writings are genres I like to read.,in_domain
+913,i loved listening to louis armstrong as a kid.,i have a lot of pins and rods in my leg.,One day the music made me dance so hard that I fell.,in_domain
+914,i loved listening to louis armstrong as a kid.,i have a lot of pins and rods in my leg.,"I play the trumpet, and was in marching band until my injury.",in_domain
+915,i loved listening to louis armstrong as a kid.,i have a lot of pins and rods in my leg.,"I can't be as active as I once was because of the pins and rods, but I still enjoy being indoors listening to music.",in_domain
+916,i start putting up ornaments and garlands early in december.,i enjoy using my car.,I have a truck for carrying supplies if you need it.,in_domain
+917,i start putting up ornaments and garlands early in december.,i enjoy using my car.,"I mostly enjoy driving around to look at them, but rarely put up my own.",in_domain
+918,i start putting up ornaments and garlands early in december.,i enjoy using my car.,I love decorating for december and decorate my car.,in_domain
+919,i like watching sports.,i am not into having salads or even berries.,"I try to participate in sports as much as I can for heath, as I eat like crap.",in_domain
+920,i like watching sports.,i am not into having salads or even berries.,You should come to our superbowl party. So many wings and sandwiches. I'm not into salads or berries.,in_domain
+921,i like watching sports.,i am not into having salads or even berries.,I'm not into sports or anything healthy.,in_domain
+922,i like watching sports.,i am not into having salads or even berries.,I get hungry when watching sports. I don't like eating healthy produce.,in_domain
+923,i like watching sports.,i am not into having salads or even berries.,me too. we watched the soccer game last week over a dinner of salad and fruit.,in_domain
+924,i like watching sports.,i am not into having salads or even berries.,Watching sports makes me want to get in shape.,in_domain
+925,my parent is a body builder.,i prefer to be financially comfortable.,You should follow in his footstep.,in_domain
+926,my parent is a body builder.,i prefer to be financially comfortable.,"My dad did that for a while, but it wasn't good money.  I want something that pays more.",in_domain
+927,my parent is a body builder.,i prefer to be financially comfortable.,That job doesn't pay well.,in_domain
+928,my mom is a clothing designer and even has a line.,i love the man who paints landscapes on television.,I love fashion and any other kind of art.,in_domain
+929,my mom is a clothing designer and even has a line.,i love the man who paints landscapes on television.,My mom paints by watching others.,in_domain
+930,my mom is a clothing designer and even has a line.,i love the man who paints landscapes on television.,I love all kinds of art.  I love watching the man paint landscapes on television.,in_domain
+931,older musical films are the best.,i spend a lot of time using my xbox.,I don't even need a VCR to watch them.,in_domain
+932,older musical films are the best.,i spend a lot of time using my xbox.,I like newer technology.  I like to play my xBox.,in_domain
+933,older musical films are the best.,i spend a lot of time using my xbox.,I watch musicals on my game console.,in_domain
+934,i want to help people.,my spouse works putting out fires.,I admire firefighters.,in_domain
+935,i want to help people.,my spouse works putting out fires.,I end up messing up.,in_domain
+936,i want to help people.,my spouse works putting out fires.,I wish I was more altruistic.  Even my spouse has a job helping people.,in_domain
+937,i want to help people.,my spouse works putting out fires.,I have a big heart.  My spouse does also because they are a firefighter.,in_domain
+938,i want to help people.,my spouse works putting out fires.,My wife likes to help people too. She's a firefighter.,in_domain
+939,i want to help people.,my spouse works putting out fires.,my husband helps people at his job.,in_domain
+940,i want to help people.,my spouse works putting out fires.,I'm a naturally helpful person.  my wife is annoyed by this because she has to end up helping too.,in_domain
+941,i want to help people.,my spouse works putting out fires.,I think helping people is noble.  My husband is a fire fighter.,in_domain
+942,i want to help people.,my spouse works putting out fires.,It is a noble thing to want to help people.  I admire people like you and my husband who work at helping people.,in_domain
+943,my favorite clothes that have warm and bright tones.,i am a swimmer and started as a kid.,I used to have a very bright and colorful swimsuit.,in_domain
+944,my favorite clothes that have warm and bright tones.,i am a swimmer and started as a kid.,The kind of colors you find on swimwear.,in_domain
+945,my favorite clothes that have warm and bright tones.,i am a swimmer and started as a kid.,I save my bright color wearing for my bathing suits.,in_domain
+946,my favorite clothes that have warm and bright tones.,i am a swimmer and started as a kid.,That sounds like the colors I wear on my swimsuit.  I've been swimming since I was a kid.,in_domain
+947,my favorite clothes that have warm and bright tones.,i am a swimmer and started as a kid.,I always stand out in the pool because my swimsuit is a bright and warm color.,in_domain
+948,my favorite clothes that have warm and bright tones.,i am a swimmer and started as a kid.,I just bought a new bright swimsuit.,in_domain
+949,my job is to drop off parcels at homes or offices.,i enjoy chocolate bars and gummy bears.,I like to order my groceries that way.,in_domain
+950,my job is to drop off parcels at homes or offices.,i enjoy chocolate bars and gummy bears.,I am expecting a delivery of chocolates at my door anytime now.,in_domain
+951,my job is to drop off parcels at homes or offices.,i enjoy chocolate bars and gummy bears.,I love when I get parcels.  I order a lot of candies like chocolate bars and gummy bears.,in_domain
+952,my job is to drop off parcels at homes or offices.,i enjoy chocolate bars and gummy bears.,I drive around a lot and that gives me too much time to snack while I'm in my car.,in_domain
+954,my job is to drop off parcels at homes or offices.,i enjoy chocolate bars and gummy bears.,While I am driving I like to snack.,in_domain
+955,i study to be a businessman.,i like to celebrate with friends.,I just graduated from business school and will go out to celebrate.,in_domain
+956,i study to be a businessman.,i like to celebrate with friends.,"When I got my business degree, I partied with my friends.",in_domain
+957,i study to be a businessman.,i like to celebrate with friends.,I passed my business exam.,in_domain
+958,i talk to a mental health professional but i do not think she gets me.,my parents had more than one child.,Mine says I suffer from sibling envy.,in_domain
+959,i talk to a mental health professional but i do not think she gets me.,my parents had more than one child.,"When I have problems, I talk to my parents.",in_domain
+960,i talk to a mental health professional but i do not think she gets me.,my parents had more than one child.,I had a big family so no attention was paid to me.,in_domain
+963,i have a lot of pets.,i live in a stand alone.,I want pets but I live in a small apartment.,in_domain
+964,i have no job.,i love the water.,"I don't work either,  I spend my days at the ocean.",in_domain
+965,i have no job.,i love the water.,I stay at the beach all day,in_domain
+966,i have no job.,i love the water.,i want to work as a lifeguard,in_domain
+967,i hate going to the coast.,i break out in a rash when i have dairy.,They stuff milk down your throat.,in_domain
+968,i hate going to the coast.,i break out in a rash when i have dairy.,I was on the coast one time.  I ate something with cheese there and broke out in a rash.  That's how I found out I was allergic to dairy.,in_domain
+969,i hate going to the coast.,i break out in a rash when i have dairy.,I would love to go just to have the more contemporary choice of food options that always seem to be around.,in_domain
+970,i hate going to the coast.,i break out in a rash when i have dairy.,Why do you hate the coast? Would you like to have a glass of milk?,in_domain
+971,i hate going to the coast.,i break out in a rash when i have dairy.,I am always tempted by the cheese factories there.,in_domain
+972,i hate going to the coast.,i break out in a rash when i have dairy.,I tried out some cheese last time that I went to the coast.  I realized that I was allergic when I broke out into a rash.,in_domain
+975,i want to go away to college and study to one day be a vet.,i like to care for pets.,"If I could afford the tuition, I would do the same, since I've learned I sincererly enjoy caring for my pets.",in_domain
+976,i decorate my home with particular things.,i enjoy romance.,Books are my only decoration in my room.,in_domain
+977,i decorate my home with particular things.,i enjoy romance.,I like to impress my girlfriend,in_domain
+978,i decorate my home with particular things.,i enjoy romance.,A good decoration can create atmosphere and I enjoy romance.,in_domain
+979,i work at a salon.,i hate throwing out plastic.,I work at a green salon.  I don't like wasting plastic.,in_domain
+980,i work at a salon.,i hate throwing out plastic.,"I couldn't handle all of the chemicals used there, though I tend to be fanatical about that, according to some.",in_domain
+981,i work at a salon.,i hate throwing out plastic.,The salon I go to is always throwing out their plastic products and it annoys me.,in_domain
+982,i like veggies.,i only have a single kid.,I never ate veggies when I was a kid.  I'm glad that I only have one kid to fight with.,in_domain
+983,i like veggies.,i only have a single kid.,I am raising my children to be vegetarians.,in_domain
+985,i like veggies.,i only have a single kid.,"Kids hating their veggies is the stereotype, right?",in_domain
+986,i like veggies.,i only have a single kid.,My kid does not like veggies.,in_domain
+987,i like veggies.,i only have a single kid.,I love vegetables because they are good for me.  I want to stay healthy because I'm the only family my child has.,in_domain
+988,my cellular device is my life line.,my mom was a rn.,"Me too, it really came in handy when my dad was in the hospital.",in_domain
+989,my cellular device is my life line.,my mom was a rn.,I love my cell phone.  I call my mother every day.  She used to be a nurse.,in_domain
+990,my cellular device is my life line.,my mom was a rn.,I use my phone to call my mom.,in_domain
+991,i do not like to change my style.,i can not spell to save my life.,"I am great at putting together a trendy outfit, but I wasn't good in school.",in_domain
+992,i do not like to change my style.,i can not spell to save my life.,All my shirts have slogans on them.,in_domain
+993,i do not like to change my style.,i can not spell to save my life.,My style has bad grammar.,in_domain
+994,i like to spend time with my kids.,killing for sport is my hobby.,My kids like to hunt with me.,in_domain
+995,i like to spend time with my kids.,killing for sport is my hobby.,The way I spend my time doesn't really contribute to a kid-friendly environment.,in_domain
+996,i like to spend time with my kids.,killing for sport is my hobby.,I take them with me when I hunt,in_domain
+997,i work in the kids section at the local library.,i have to put in my contacts every morning.,Working at the library can be very hard on the eyes.,in_domain
+998,i work in the kids section at the local library.,i have to put in my contacts every morning.,I like to read too.  I have to make sure that my contacts are in.,in_domain
+999,i work in the kids section at the local library.,i have to put in my contacts every morning.,I love libraries. I like to read but I have bad eyesight. I have to wear contacts daily.,in_domain
+1000,i work in the kids section at the local library.,i have to put in my contacts every morning.,I cannot see the books without help.,in_domain
+1001,i work in the kids section at the local library.,i have to put in my contacts every morning.,I love to get books from the library.  It's hard to read them without my contacts though.,in_domain
+1002,i work in the kids section at the local library.,i have to put in my contacts every morning.,"I read books to children at the local library, and without my contacts I can't see the words clearly.",in_domain
+1003,i like to eat beef.,i enjoy music.,My interests don't really revolve around food.,in_domain
+1004,i like to eat beef.,i enjoy music.,I like listening to music while I eat.,in_domain
+1005,i like to eat beef.,i enjoy music.,I listen to the background songs at McDonalds.,in_domain
+1006,i like to spend time in the kitchen.,my friends say i take too long to put on my makeup before school.,I spend a lot of time in the bathroom.  My friends say I spend too much time putting on makeup before school.,in_domain
+1007,i like to spend time in the kitchen.,my friends say i take too long to put on my makeup before school.,The kitchen is where I put on my makeup.,in_domain
+1008,i like to spend time in the kitchen.,my friends say i take too long to put on my makeup before school.,I do makeup in the kitchen.,in_domain
+1009,i am in an army family.,bugs without 8 legs are fine.,I've heard from soldiers returning from deployments in Iraq there are a lot of strange bugs over there.,in_domain
+1011,i am in an army family.,bugs without 8 legs are fine.,I grew up near a base in Florida. I left because of all the spiders.,in_domain
+1012,i am in an army family.,bugs without 8 legs are fine.,Our family always squashes bugs without hesitation.,in_domain
+1013,i am in an army family.,bugs without 8 legs are fine.,"You've probably seen some ghastly things. I could never handle it, I can't even handle bugs mostly.",in_domain
+1014,i am in an army family.,bugs without 8 legs are fine.,"When I am home, I like to clean the bugs out of the garage.",in_domain
+1015,my job requires me to be there three days a week.,i love to watch gameshows and mysteries.,I work at a TV station,in_domain
+1017,my job requires me to be there three days a week.,i love to watch gameshows and mysteries.,I have a part time job too.  It's slow and I can watch game shows when I am on the clock.,in_domain
+1018,my family used to live in sydney.,i followed in my the footsteps of my dad and wrote my first novel at 30.,I moved so I could pursue my dreams.,in_domain
+1019,my family used to live in sydney.,i followed in my the footsteps of my dad and wrote my first novel at 30.,My dad wrote about Sydney in his travel diary.,in_domain
+1020,my family used to live in sydney.,i followed in my the footsteps of my dad and wrote my first novel at 30.,My dad wrote a novel about Sydney.,in_domain
+1022,i like to keep a routine and do the same thing everyday.,i need to compete with other girls.,"I am more about being the best, whatever the activity is.",in_domain
+1023,i like to keep a routine and do the same thing everyday.,i need to compete with other girls.,I always put on makeup at the same time.,in_domain
+1024,my favorite thing to do is the salsa and tango.,i have a sensible car.,I blast salsa music from my car.,in_domain
+1025,my favorite thing to do is the salsa and tango.,i have a sensible car.,I drive far to salsa meet ups.,in_domain
+1026,my favorite thing to do is the salsa and tango.,i have a sensible car.,"I don't like dancing, but I play a lot of music in my little car.",in_domain
+1027,my preferred style of jeans is from the dk line.,i educated tweens and teens.,I love fashion.  All the kids in my classes talk about fashion with me.,in_domain
+1028,my preferred style of jeans is from the dk line.,i educated tweens and teens.,I try to convince people fashion isn't that important. I saw too much bullying because of it.,in_domain
+1029,my preferred style of jeans is from the dk line.,i educated tweens and teens.,"At school, kids pick on my clothes.",in_domain
+1030,my preferred style of jeans is from the dk line.,i educated tweens and teens.,I like to think of myself as a hip teacher.,in_domain
+1031,my preferred style of jeans is from the dk line.,i educated tweens and teens.,I love the DK Line jeans.  The tweens and teens told me about this while I was teaching them.,in_domain
+1032,my preferred style of jeans is from the dk line.,i educated tweens and teens.,I do not care much about branding but more about what the brand means overall as per my life choices.,in_domain
+1033,i am in charge of a business that cleans homes.,i follow nick.,I think Nick owns such a business.,in_domain
+1034,i am in charge of a business that cleans homes.,i follow nick.,I like watching Nick at Night while cleaning my room.,in_domain
+1035,i am in charge of a business that cleans homes.,i follow nick.,Nick has been in the business for years.,in_domain
+1036,i am in charge of a business that cleans homes.,i follow nick.,"I am in charge of a business that cleans homes, which I started with my friend Nick who I met when I started to follow Nick online.",in_domain
+1037,i am in charge of a business that cleans homes.,i follow nick.,"Nick is the owner of the cleaning business and he's in charge of my employment, so I do what he says.",in_domain
+1038,i am in charge of a business that cleans homes.,i follow nick.,I own a cleaning business.  However Nick has more experience so he tells me what to do.,in_domain
+1040,i rent a place together with my sibling.,i help homeless animals.,I have my own place with my dog.,in_domain
+1042,i enjoy reading things that have long story lins.,i enjoying chatting with people i know.,"I've never been much of a reader, as I'm more of a people person.",in_domain
+1043,i enjoy reading things that have long story lins.,i enjoying chatting with people i know.,I like telling people stories.,in_domain
+1044,i enjoy reading things that have long story lins.,i enjoying chatting with people i know.,Sounds like you like settling down for a long reading session.  I get restless reading and rather I enjoy chatting with people I know.,in_domain
+1045,my dad drove a truck.,i have a ton of energy.,I can relate.  Working hard is also in my genes.,in_domain
+1046,my dad drove a truck.,i have a ton of energy.,My dad had a truck but I wore it out because I had a lot of energy.,in_domain
+1048,my mom and dad live up north by hollywood.,my radio is usually tuned into a country station.,I listen to music when I go visit them.,in_domain
+1050,my mom and dad live up north by hollywood.,my radio is usually tuned into a country station.,My parents live out in the desert. The only radio station I can pick up out there is country. I just keep it tuned to the station these days.,in_domain
+1051,i enjoy making other people laugh.,my employment is manufacturing goods.,"I appreciate a good laugh, especially when I'm bored at work.",in_domain
+1052,i enjoy making other people laugh.,my employment is manufacturing goods.,I tell a lot of jokes at work.  I work in a factory.,in_domain
+1053,i enjoy making other people laugh.,my employment is manufacturing goods.,I want to work as a comedian someday.,in_domain
+1054,i am a meat an potatoes kind of person.,i enjoy alcohol to unwind.,I need something naughty to wash it down.,in_domain
+1055,i am a meat an potatoes kind of person.,i enjoy alcohol to unwind.,"I've given up meat, but will never give up alcohol.",in_domain
+1056,i am a meat an potatoes kind of person.,i enjoy alcohol to unwind.,I always have a beer with my steak.,in_domain
+1057,my schooling is close to being completed.,i am the one who supports my parents.,"Hopefully, my parents can support me while I am in college.",in_domain
+1059,my schooling is close to being completed.,i am the one who supports my parents.,"Unfortunately, I have had to drop out of school and get a job.",in_domain
+1060,my schooling is close to being completed.,i am the one who supports my parents.,I have to work to support myself and my family.,in_domain
+1061,my schooling is close to being completed.,i am the one who supports my parents.,I wasn't able to finish school.  I had to go to work to support my parents.,in_domain
+1062,my schooling is close to being completed.,i am the one who supports my parents.,I want to get a job to help my family.,in_domain
+1063,i am the owner of canines of different breeds.,i got in a lot of trouble growing up.,dogs are good companions for when you are young,in_domain
+1065,i am the owner of canines of different breeds.,i got in a lot of trouble growing up.,I sick my dogs on people.,in_domain
+1066,i am the owner of canines of different breeds.,i got in a lot of trouble growing up.,I never took good care of my dogs.,in_domain
+1067,i am the owner of canines of different breeds.,i got in a lot of trouble growing up.,"I always wanted to own a dog as a kid, but my parents refused to buy me one because I was constantly getting into trouble when I was growing up.",in_domain
+1068,i am the owner of canines of different breeds.,i got in a lot of trouble growing up.,I had a pet canine as a boy and we would always run off and cause trouble for the neighborhood.,in_domain
+1069,i am the owner of canines of different breeds.,i got in a lot of trouble growing up.,"I really want to adopt a dog, but my mom says that I am too young and irresponsible.",in_domain
+1070,i am the owner of canines of different breeds.,i got in a lot of trouble growing up.,I was never allowed to have a pet when I was little.,in_domain
+1071,i am the owner of canines of different breeds.,i got in a lot of trouble growing up.,Dogs kind of saved me from myself when I was younger.,in_domain
+1072,i am lactose intolerant.,i am a fantastic person in the kitchen.,"If you ever want help with developing lactose-free recipes, I happen to be fantastic in the kitchen.",in_domain
+1073,i am lactose intolerant.,i am a fantastic person in the kitchen.,I can cook without using any dairy products.,in_domain
+1074,i am lactose intolerant.,i am a fantastic person in the kitchen.,I don't put milk in any dishes.,in_domain
+1075,i really like all kinds of food but i prefer mexican.,i watch performing arts.,I just went to a production about the Day of the Dead.,in_domain
+1076,i really like all kinds of food but i prefer mexican.,i watch performing arts.,"I like everything Mexican, especially salsa dancing.",in_domain
+1077,i really like all kinds of food but i prefer mexican.,i watch performing arts.,The performing Arts Center serves Mexican cuisine.,in_domain
+1078,i really enjoy doing artistic things.,i am fan of everything from classic rock to rap.,I like writing music.,in_domain
+1079,i really enjoy doing artistic things.,i am fan of everything from classic rock to rap.,I make songs in my spare time.,in_domain
+1082,my mom is an artist.,i would much rather get paid to play my guitar all day.,You can make lots of money as an agent in the art industry.,in_domain
+1083,my mom is an artist.,i would much rather get paid to play my guitar all day.,That's great if she can make a living at it.,in_domain
+1084,my husband and i have 4 daughters and 1 son.,i prefer to listen to things more in the urban genre.,I can't listen to heavy metal when the children are around.,in_domain
+1085,my husband and i have 4 daughters and 1 son.,i prefer to listen to things more in the urban genre.,We moved into the ghetto.,in_domain
+1086,my husband and i have 4 daughters and 1 son.,i prefer to listen to things more in the urban genre.,Do you guys use music to connect as a family?,in_domain
+1087,my husband and i have 4 daughters and 1 son.,i prefer to listen to things more in the urban genre.,My son loves urban music and he's the one who got me into it.,in_domain
+1088,my husband and i have 4 daughters and 1 son.,i prefer to listen to things more in the urban genre.,My family members like to listen to classical music.,in_domain
+1090,i make up stories about celebrities to get attention.,i ride around selling books.,"You should write a book. I sell books, myself.",in_domain
+1091,i make up stories about celebrities to get attention.,i ride around selling books.,I make novels for money.,in_domain
+1092,i make up stories about celebrities to get attention.,i ride around selling books.,When I’m riding around selling books I run into a lot of people who are selling made up stories about celebrities.,in_domain
+1093,i do not get to see my parents very often.,i like bigger canines.,"I have no family at all, just my dogs.",in_domain
+1094,i do not get to see my parents very often.,i like bigger canines.,I had a huge canine as a pet when I was growing up in my parents home.,in_domain
+1095,i do not get to see my parents very often.,i like bigger canines.,I see my parents often. They breed chihuahuas. I prefer larger canines though.,in_domain
+1096,my pop used to be a personal driver.,i was asked to give my opinion on preschool education for a tv segment.,"My pop was an educator, so I wanted to do this to make him proud.",in_domain
+1097,my pop used to be a personal driver.,i was asked to give my opinion on preschool education for a tv segment.,"Oh! What kind of clients did he drive? Oh yeah, why did our boss call you in yesterday?",in_domain
+1098,my pop used to be a personal driver.,i was asked to give my opinion on preschool education for a tv segment.,One day he set up a meeting with me and he mayor.,in_domain
+1099,i enjoy reading things that have long story lins.,i like to spend time at restaurants.,"I enjoy reading things that have long story lines, especially while I eat. So I always carry a book with me because I like to spend time in restaurants relaxing.",in_domain
+1100,i enjoy reading things that have long story lins.,i like to spend time at restaurants.,I like to read at cafes and restaurants. I love spending time at restaurants.,in_domain
+1101,i enjoy reading things that have long story lins.,i like to spend time at restaurants.,I like reading about fine dining.,in_domain
+1102,i watch kids.,i have always liked nice cars.,My child wants to become a car designer.,in_domain
+1103,i watch kids.,i have always liked nice cars.,"I don't mind babysitting, but I don't want my own. They aren't compatible with my corvette.",in_domain
+1104,i watch kids.,i have always liked nice cars.,I take them for rides in my Jaguar.,in_domain
+1105,i am an amateur entomologist.,i work in tech.,I love my job.,in_domain
+1106,i am an amateur entomologist.,i work in tech.,I like working in science too.  I am in tech.,in_domain
+1108,i enjoy playing music.,i only eat plants.,A lot of musicians are vegans.,in_domain
+1110,i enjoy playing music.,i only eat plants.,I play music for my vegetables.,in_domain
+1111,i lift weights four times a week.,a great way to pass time is to be in the water relaxing.,My only exercise is swimming.,in_domain
+1112,i lift weights four times a week.,a great way to pass time is to be in the water relaxing.,I don't like weight lifting.  I'd rather swim.,in_domain
+1113,i lift weights four times a week.,a great way to pass time is to be in the water relaxing.,"I respect your commitment and effort, but when it comes to my leisure time, I much prefer to spend it relaxing in the water.",in_domain
+1114,i love to redecorate my house by painting.,i have a couple of kids.,My house needs redecorating inside.,in_domain
+1115,i love to redecorate my house by painting.,i have a couple of kids.,My kids did all the walls in our house.,in_domain
+1116,i love to redecorate my house by painting.,i have a couple of kids.,I won't redecorate my house until my kids grow up.,in_domain
+1117,my pop passed away.,i love to design.,I'm sorry to hear that. My mom encourages me in my passions.,in_domain
+1118,my pop passed away.,i love to design.,I could make him a nice coffin.,in_domain
+1119,my pop passed away.,i love to design.,my own father who had a clothing line passed away as well,in_domain
+1120,i enjoy getting a good dance cardio workout.,i like to cook different foods.,workouts make it so that I don't feel guilty eating.,in_domain
+1121,i enjoy getting a good dance cardio workout.,i like to cook different foods.,You must eat healthy to keep up with the workouts.,in_domain
+1124,i hate my old job.,i spend a lot of time in the kitchen.,"Me too, I used to wait tables, but wanted to be a cook. I finally quit and now can spend all the time in the kitchen I want.",in_domain
+1125,i hate my old job.,i spend a lot of time in the kitchen.,I used to work in the kitchen of a restaurant.,in_domain
+1126,i am often successful at ocean fishing.,i enjoy art.,I have a huge passion for art in one of my favorite types of paintings are those of the oceans and the animals that occupy it.,in_domain
+1127,i am often successful at ocean fishing.,i enjoy art.,"I love going ocean fishing, but art is my main hobby.",in_domain
+1128,i am often successful at ocean fishing.,i enjoy art.,fishing is an art,in_domain
+1129,i tell jokes on stage.,i do not know many people.,I would be way to shy for anything like that.,in_domain
+1130,i tell jokes on stage.,i do not know many people.,I use humor to get friends.,in_domain
+1131,i tell jokes on stage.,i do not know many people.,I get nervous in front of people.,in_domain
+1133,my favorite pets are canines.,after almost half a decade my partner and i are engaged.,"As an engagement present, my partner and I got two pet dogs.",in_domain
+1134,my favorite pets are canines.,after almost half a decade my partner and i are engaged.,I was walking my dog when I met my girl Mindy.,in_domain
+1135,i am a pilot.,i like to make things with my hands.,I can build and fly a plane.,in_domain
+1136,i am a pilot.,i like to make things with my hands.,You must have very good hand eye coordination.,in_domain
+1137,i am a pilot.,i like to make things with my hands.,I work in the arts.  I like making things with my hands.,in_domain
+1138,i am a pilot.,i like to make things with my hands.,"When I'm not flying planes, I am working on crafts.",in_domain
+1139,i am a pilot.,i like to make things with my hands.,I am a pilot who loves to carve planes out of wood with my hands.,in_domain
+1140,i am a pilot.,i like to make things with my hands.,"When I am not flying, I like to make art.",in_domain
+1141,my mother was a cosmetologist.,i work at a business that sells morning drinks.,"My mother never worked, but I have a business selling morning drinks.",in_domain
+1142,my mother was a cosmetologist.,i work at a business that sells morning drinks.,I have a better job.,in_domain
+1143,my mother was a cosmetologist.,i work at a business that sells morning drinks.,"Mine stayed at home, but always encouraged me to have a career.",in_domain
+1144,my sibling enjoys music and going to different places.,i wish to join education.,"My sibling enjoys music and going to different places, but I'm a little more serious-minded. More than anything, I wish to join in educational pursuits.",in_domain
+1145,my sibling enjoys music and going to different places.,i wish to join education.,"I like too go to simple, intelligent locations.",in_domain
+1146,my sibling enjoys music and going to different places.,i wish to join education.,I'd like to study music and travel.,in_domain
+1147,my sibling enjoys music and going to different places.,i wish to join education.,"If I can get a higher education I can make more money and support my hobbies, playing music and traveling.",in_domain
+1148,my sibling enjoys music and going to different places.,i wish to join education.,I want to settle down and get a job.,in_domain
+1150,i am currently in college.,i will turn 21 this year.,I will soon drink at college parties.,in_domain
+1151,i am currently in college.,i will turn 21 this year.,"I am currently in college, which is important to me at this stage of life because I really believe in getting a good head start when it comes to education.",in_domain
+1153,my office is the internet.,i enjoy listening to pop punk music.,I find most of my music on the internet.,in_domain
+1154,my office is the internet.,i enjoy listening to pop punk music.,I work on the internet so I can have music.,in_domain
+1155,my office is the internet.,i enjoy listening to pop punk music.,I stream music on the internet.,in_domain
+1156,my office is the internet.,i enjoy listening to pop punk music.,I work online only.  I usually work while bumping odd music.,in_domain
+1157,my office is the internet.,i enjoy listening to pop punk music.,I am lucky that I can listen to music when I am working.,in_domain
+1158,my office is the internet.,i enjoy listening to pop punk music.,I listen to pop punk music on the internet.,in_domain
