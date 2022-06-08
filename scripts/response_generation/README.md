@@ -1,10 +1,10 @@
 # scripts for response generation training and inference
 
-Train, test files and model files will be uploaded in the google drive folder (link in the main Readme of the main folder)
+Train, test files and model files will be uploaded in the google drive folder (link in the main Readme of the repo)
 
 Sample command for training model on data created in the last step
 ```bash
-python train_pathottersgpt.py --train_file augfp4_out_of_domain_train_out_goldkeywords.jsonl --validation_file augfp4_out_of_domain_valid_out_istest_goldkeywords-key1.jsonl  --model_name_or_path ../../data_prep/daily_dialogue_act/train_pathseqdd/alv2-tcfiltered0.8_duppathremoved_len12_ppl1.3-vorgresp/checkpoint-500/ --output_dir ftddpaths-oodpaths-pkrv1_exp3_thres2.0/ --num_train_epochs 3 --do_train --overwrite_output_dir --eval_steps 50 --save_steps 50 --evaluation_strategy steps --fp16 --load_best_model_at_end --logging_steps 50 --pad_to_max_length --per_device_train_batch_size 10
+python train_pathottersgpt.py --train_file augfp4_out_of_domain_train_out_goldkeywords.jsonl --validation_file VALIDATIONFILE.jsonl  --model_name_or_path ../../data_prep/daily_dialogue_act/train_pathseqdd/alv2-tcfiltered0.8_duppathremoved_len12_ppl1.3-vorgresp/checkpoint-500/ --output_dir ftddpaths-oodpaths-pkrv1_exp3_thres2.0/ --num_train_epochs 3 --do_train --overwrite_output_dir --eval_steps 50 --save_steps 50 --evaluation_strategy steps --fp16 --load_best_model_at_end --logging_steps 50 --pad_to_max_length --per_device_train_batch_size 10
 ```
 
 Sample command for predicting response
