@@ -27,21 +27,12 @@ from scipy.stats import pearsonr, spearmanr
 
 
 import bert_score
-import rake_utils
+# import rake_utils
 bert_scorer = bert_score.BERTScorer(
         lang="en", batch_size=3, rescale_with_baseline=True
     )
 def bertscore_multi_refs_working(bert_scorer, bertscore_cands, bertscore_refs):
     scorer = bert_scorer  # bert_score.BERTScorer(lang="en", batch_size=3, rescale_with_baseline=True)
-    # cands = ["I like lemons.", "Hi", "Hey", "Hello", "Go", ""]
-    # refs = [
-    #     ["I am proud of you.", "I like lemons.", "Go go go."],
-    #     ["I am proud of you.", "Go go go."],
-    #     ["Hi", ""],
-    #     ["I am proud of you.", "I love lemons.", "Go go go.", "hello"],
-    #     ["I am proud of you.", "Go go go.", "Go", "Go to school"],
-    #     ["test"],
-    # ]
     cands = bertscore_cands  # reader.bertscore_cands
     refs = bertscore_refs  # reader.bertscore_refs
     P_mul, R_mul, F_mul = scorer.score(
@@ -163,12 +154,12 @@ def print_coco_scores(data):
         )
         for k,v in info.items():
             tmp[k].append(v)
-        topk_vals = rake_utils.get_hits_topk(candidate=sysi,
-                                             references=refsi,
-                                             kset=[1, 2, 3, 5],
-                                             method='rake')
-        for k,v in topk_vals.items():
-            tmp[k].append(v)
+        # topk_vals = rake_utils.get_hits_topk(candidate=sysi,
+        #                                      references=refsi,
+        #                                      kset=[1, 2, 3, 5],
+        #                                      method='rake')
+        # for k,v in topk_vals.items():
+        #     tmp[k].append(v)
     for k,vlist in tmp.items():
         metrics[k] = np.mean(vlist)
     print("metrics = ", metrics)
@@ -379,12 +370,7 @@ if __name__ == '__main__':
     # data = data[:20]
 
     nofudge_data = get_specifc_response_types(data, 'nofudge')
-    fudge_data = get_specifc_response_types(data, 'fudge')
     references_data = get_specifc_response_types(data, 'references')
-
-    print('For fudge')
-    print_bleu(fudge_data)
-    print_coco_scores(fudge_data)
 
     print('\nFor simple fine-tuned')
     print_bleu(nofudge_data)
